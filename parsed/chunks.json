@@ -1,0 +1,4891 @@
+[
+  {
+    "section": "SERVICE MANUAL",
+    "subsection": "SERVICE MANUAL",
+    "page": 1,
+    "linked_images": [
+      "img_001"
+    ],
+    "chunk_id": "chunk_0001",
+    "chunk_type": "section",
+    "text": "SERVICE MANUAL"
+  },
+  {
+    "section": "QHF Series inverter Hiwall",
+    "subsection": "QHF Series inverter Hiwall",
+    "page": 1,
+    "linked_images": [
+      "img_001"
+    ],
+    "chunk_id": "chunk_0002",
+    "chunk_type": "section",
+    "text": "QHF Series inverter Hiwall\n\nOct, 2014"
+  },
+  {
+    "section": "CONTENTS",
+    "subsection": "CONTENTS",
+    "page": 2,
+    "linked_images": [],
+    "chunk_id": "chunk_0003",
+    "chunk_type": "section",
+    "text": "CONTENTS\n\n1. Precaution .................................................................................................................................................... 3 1.1 Safety Precaution .......................................................................................................................... 3 1.2 Warning ......................................................................................................................................... 3 2. Function ........................................................................................................................................................ 7 3. Dimension .................................................................................................................................................... 8 3.1 Indoor Unit ..................................................................................................................................... 8 3.2 Outdoor Unit .................................................................................................................................. 9 4. Refrigerant Cycle Diagram ....................................................................................................................... 10 5. Wiring Diagram ........................................................................................................................................... 11 5.1 Indoor Unit .................................................................................................................................... 11 5.2 Outdoor Unit ................................................................................................................................ 12 6 Installation Details ...................................................................................................................................... 14 6.1 Wrench torque sheet for installation ........................................................................................... 14 6.2 Connecting the cables ................................................................................................................ 14 6.3 Pipe length and the elevation ..................................................................................................... 15 6.4 Installation for the first time ......................................................................................................... 16 6.5 Adding the refrigerant after running the system for many years ................................................ 18 6.6 Re-installation while the indoor unit need to be repaired ........................................................... 19 6.7 Re-installation while the outdoor unit need to be repaired ......................................................... 21 7. Operation Characteristics ......................................................................................................................... 25 8. Electronic function .................................................................................................................................... 26 8.1 Abbreviation ................................................................................................................................ 26 8.2 Display function ........................................................................................................................... 26 8.3 Main Protection ........................................................................................................................... 27 8.4 Operation Modes and Functions ................................................................................................. 29 9. Troubleshooting ......................................................................................................................................... 42 9.1 Indoor Unit Error Display ............................................................................................................. 42 9.2 Diagnosis and Solution ............................................................................................................... 43\n\n1. Precaution"
+  },
+  {
+    "section": "Section 1",
+    "subsection": "1.1 Safety Precaution",
+    "page": 3,
+    "linked_images": [],
+    "chunk_id": "chunk_0004",
+    "chunk_type": "section",
+    "text": "1.1 Safety Precaution\n\n\n\nTo prevent injury to the user or other people and property damage, the following\n\ninstructions must be followed.\n\n\n\nIncorrect operation due to ignoring instruction will cause harm or damage.\n\n Before service the unit, be sure to read this service manual at first."
+  },
+  {
+    "section": "Section 1",
+    "subsection": "1.2 Warning",
+    "page": 3,
+    "linked_images": [],
+    "chunk_id": "chunk_0005",
+    "chunk_type": "section",
+    "text": "1.2 Warning"
+  },
+  {
+    "section": " Installation",
+    "subsection": " Installation",
+    "page": 3,
+    "linked_images": [],
+    "chunk_id": "chunk_0006",
+    "chunk_type": "section",
+    "text": " Installation\n\n Do not use a defective or underrated circuit breaker. Use this appliance on a dedicated"
+  },
+  {
+    "section": "circuit.",
+    "subsection": "circuit.",
+    "page": 3,
+    "linked_images": [],
+    "chunk_id": "chunk_0007",
+    "chunk_type": "section",
+    "text": "circuit.\n\nThere is risk of fire or electric shock.\n\n\n\nFor electrical work, contact the dealer, seller, a qualified electrician, or an authorized"
+  },
+  {
+    "section": "service center.",
+    "subsection": "service center.",
+    "page": 3,
+    "linked_images": [],
+    "chunk_id": "chunk_0008",
+    "chunk_type": "section",
+    "text": "service center.\n\nDo not disassemble or repair the product, there is risk of fire or electric shock.\n\n Always ground the product.\n\nThere is risk of fire or electric shock.\n\n"
+  },
+  {
+    "section": "Install the panel and the cover of control box securely.",
+    "subsection": "Install the panel and the cover of control box securely.",
+    "page": 3,
+    "linked_images": [],
+    "chunk_id": "chunk_0009",
+    "chunk_type": "section",
+    "text": "Install the panel and the cover of control box securely.\n\nThere is risk of fire of electric shock.\n\n Always install a dedicated circuit and breaker.\n\nImproper wiring or installation may cause fore or electric shock.\n\n Use the correctly rated breaker of fuse.\n\nThere is risk of fire or electric shock.\n\n Do not modify or extend the power cable.\n\nThere is risk of fire or electric shock.\n\n Do not install, remove, or reinstall the unit by yourself (customer).\n\nThere is risk of fire, electric shock, explosion, or injury.\n\n Be caution when unpacking and installing the product.\n\nSharp edges could cause injury, be especially careful of the case edges and the fins on the\n\n3"
+  },
+  {
+    "section": "condenser and evaporator.",
+    "subsection": "condenser and evaporator.",
+    "page": 4,
+    "linked_images": [],
+    "chunk_id": "chunk_0010",
+    "chunk_type": "section",
+    "text": "condenser and evaporator.\n\n\n\nFor installation, always contact the dealer or an authorized service center.\n\n Do not install the product on a defective installation stand.\n\n Be sure the installation area does not deteriorate with age.\n\nIf the base collapses, the air conditioner could fall with it, causing property damage, product failure,"
+  },
+  {
+    "section": "and personal injury.",
+    "subsection": "and personal injury.",
+    "page": 4,
+    "linked_images": [],
+    "chunk_id": "chunk_0011",
+    "chunk_type": "section",
+    "text": "and personal injury.\n\n Do not let the air conditioner run for a long time when the humidity is very high and a\n\ndoor or a window is left open.\n\n\n\nTake care to ensure that power cable could not be pulled out or damaged during"
+  },
+  {
+    "section": "operation.",
+    "subsection": "operation.",
+    "page": 4,
+    "linked_images": [],
+    "chunk_id": "chunk_0012",
+    "chunk_type": "section",
+    "text": "operation.\n\nThere is risk of fire or electric shock.\n\n Do not place anything on the power cable.\n\nThere is risk of fire or electric shock.\n\n Do not plug or unplug the power supply plug during operation.\n\nThere is risk of fire or electric shock.\n\n Do not touch (operation) the product with wet hands.\n\n Do not place a heater or other appliance near the power cable.\n\nThere is risk of fire and electric shock.\n\n Do not allow water to run into electrical parts.\n\nIt may cause fire, failure of the product, or electric shock.\n\n Do not store or use flammable gas or combustible near the product.\n\nThere is risk of fire or failure of product.\n\n Do not use the product in a tightly closed space for a long time.\n\nOxygen deficiency could occur.\n\n When flammable gas leaks, turn off the gas and open a window for ventilation before\n\nturn the product on.\n\n\n\nIf strange sounds or smoke comes from product, turn the breaker off or disconnect the"
+  },
+  {
+    "section": "power supply cable.",
+    "subsection": "power supply cable.",
+    "page": 4,
+    "linked_images": [],
+    "chunk_id": "chunk_0013",
+    "chunk_type": "section",
+    "text": "power supply cable.\n\nThere is risk of electric shock or fire.\n\n\n\nStop operation and close the window in storm or hurricane. If possible, remove the\n\nproduct from the window before the hurricane arrives.\n\n4\n\nThere is risk of property damage, failure of product, or electric shock.\n\n Do not open the inlet grill of the product during operation. (Do not touch the electrostatic\n\nfilter, if the unit is so equipped.)\n\nThere is risk of physical injury, electric shock, or product failure.\n\n When the product is soaked, contact an authorized service center.\n\nThere is risk of fire or electric shock.\n\n Be caution that water could not enter the product.\n\nThere is risk of fire, electric shock, or product damage.\n\n\n\nVentilate the product from time to time when operating it together with a stove etc.\n\nThere is risk of fire or electric shock.\n\n\n\nTurn the main power off when cleaning or maintaining the product.\n\nThere is risk of electric shock.\n\n When the product is not be used for a long time, disconnect the power supply plug or\n\nturn off the breaker.\n\nThere is risk of product damage or failure, or unintended operation.\n\n\n\nTake care to ensure that nobody could step on or fall onto the outdoor unit.\n\nThis could result in personal injury and product damage."
+  },
+  {
+    "section": " CAUTION",
+    "subsection": " CAUTION",
+    "page": 5,
+    "linked_images": [],
+    "chunk_id": "chunk_0014",
+    "chunk_type": "section",
+    "text": " CAUTION\n\n Always check for gas (refrigerant) leakage after installation or repair of product.\n\nLow refrigerant levels may cause failure of product.\n\n\n\nInstall the drain hose to ensure that water is drained away properly.\n\nA bad connection may cause water leakage.\n\n Keep level even when installing the product.\n\nIt can avoid vibration of water leakage.\n\n Do not install the product where the noise or hot air from the outdoor unit could damage"
+  },
+  {
+    "section": "the neighborhoods.",
+    "subsection": "the neighborhoods.",
+    "page": 5,
+    "linked_images": [],
+    "chunk_id": "chunk_0015",
+    "chunk_type": "section",
+    "text": "the neighborhoods.\n\nIt may cause a problem for your neighbors.\n\n Use two or more people to lift and transport the product.\n\n Do not install the product where it will be exposed to sea wind (salt spray) directly.\n\nIt may cause corrosion on the product. Corrosion, particularly on the condenser and evaporator fins,\n\n5\n\ncould cause product malfunction or inefficient operation."
+  },
+  {
+    "section": " Operational",
+    "subsection": " Operational",
+    "page": 6,
+    "linked_images": [],
+    "chunk_id": "chunk_0016",
+    "chunk_type": "section",
+    "text": " Operational\n\n Do not expose the skin directly to cool air for long time. (Do not sit in the draft).\n\n Do not use the product for special purposes, such as preserving foods, works of art etc.\n\nIt is a consumer air conditioner, not a precision refrigerant system.\n\nThere is risk of damage or loss of property.\n\n Do not block the inlet or outlet of air flow.\n\n Use a soft cloth to clean. Do not use harsh detergents, solvents, etc.\n\nThere is risk of fire, electric shock, or damage to the plastic parts of the product.\n\n Do not touch the metal parts of the product when removing the air filter. They are very"
+  },
+  {
+    "section": "sharp.",
+    "subsection": "sharp.",
+    "page": 6,
+    "linked_images": [],
+    "chunk_id": "chunk_0017",
+    "chunk_type": "section",
+    "text": "sharp.\n\n Do not step on or put anything on the product. (outdoor units)\n\n Always insert the filter securely. Clean the filter every two weeks or more often if"
+  },
+  {
+    "section": "necessary.",
+    "subsection": "necessary.",
+    "page": 6,
+    "linked_images": [],
+    "chunk_id": "chunk_0018",
+    "chunk_type": "section",
+    "text": "necessary.\n\nA dirty filter reduces the efficiency of the air conditioner and could cause product malfunction or"
+  },
+  {
+    "section": "damage.",
+    "subsection": "damage.",
+    "page": 6,
+    "linked_images": [],
+    "chunk_id": "chunk_0019",
+    "chunk_type": "section",
+    "text": "damage.\n\n Do not insert hands or other objects through air inlet or outlet while the product is\n\noperated.\n\n Do not drink the water drained from the product.\n\n Use a firm stool or ladder when cleaning or maintaining the product.\n\nBe careful and avoid personal injury.\n\n Replace the all batteries in the remote control with new ones of the same type. Do not"
+  },
+  {
+    "section": "mix old and new batteries or different types of batteries.",
+    "subsection": "mix old and new batteries or different types of batteries.",
+    "page": 6,
+    "linked_images": [],
+    "chunk_id": "chunk_0020",
+    "chunk_type": "section",
+    "text": "mix old and new batteries or different types of batteries.\n\nThere is risk of fire or explosion.\n\n Do not recharge or disassemble the batteries. Do not dispose of batteries in a fire.\n\nThey may burn of explode.\n\n\n\nIf the liquid from the batteries gets onto your skin or clothes, wash it well with clean\n\nwater. Do not use the remote of the batteries have leaked.\n\n6\n\n2. Function"
+  },
+  {
+    "section": "Killer Of Formaldehyde",
+    "subsection": "Killer Of Formaldehyde",
+    "page": 7,
+    "linked_images": [],
+    "chunk_id": "chunk_0021",
+    "chunk_type": "section",
+    "text": "Killer Of Formaldehyde"
+  },
+  {
+    "section": "Silver Ico Filter(O)",
+    "subsection": "Silver Ico Filter(O)",
+    "page": 7,
+    "linked_images": [],
+    "chunk_id": "chunk_0022",
+    "chunk_type": "section",
+    "text": "Silver Ico Filter(O)"
+  },
+  {
+    "section": "Vitamin C Filter(O)",
+    "subsection": "Vitamin C Filter(O)",
+    "page": 7,
+    "linked_images": [],
+    "chunk_id": "chunk_0023",
+    "chunk_type": "section",
+    "text": "Vitamin C Filter(O)"
+  },
+  {
+    "section": "3M HAM Filter(O)",
+    "subsection": "3M HAM Filter(O)",
+    "page": 7,
+    "linked_images": [],
+    "chunk_id": "chunk_0024",
+    "chunk_type": "section",
+    "text": "3M HAM Filter(O)"
+  },
+  {
+    "section": "Bio Filter(O)",
+    "subsection": "Bio Filter(O)",
+    "page": 7,
+    "linked_images": [],
+    "chunk_id": "chunk_0025",
+    "chunk_type": "section",
+    "text": "Bio Filter(O)"
+  },
+  {
+    "section": "Golden Fin(O)",
+    "subsection": "Golden Fin(O)",
+    "page": 7,
+    "linked_images": [],
+    "chunk_id": "chunk_0026",
+    "chunk_type": "section",
+    "text": "Golden Fin(O)\n\nIonizer(O)Compressor Crankcase Heater(O)1W StandbyLouver Position Memory FunctionRefrigerant Leakage DetectSelf-diag. FunctionHydrophilic Aluminum FinAnti-rust CabinetValve Protection CoverPTC Heating Belt(O)Filter2 ways of drainage"
+  },
+  {
+    "section": "O: optional function",
+    "subsection": "O: optional function",
+    "page": 7,
+    "linked_images": [],
+    "chunk_id": "chunk_0027",
+    "chunk_type": "section",
+    "text": "O: optional function\n\n7\n\n3. Dimension"
+  },
+  {
+    "section": "Section 3",
+    "subsection": "3.1 Indoor Unit",
+    "page": 8,
+    "linked_images": [],
+    "chunk_id": "chunk_0028",
+    "chunk_type": "section",
+    "text": "3.1 Indoor Unit"
+  },
+  {
+    "section": "WDH",
+    "subsection": "WDH",
+    "page": 8,
+    "linked_images": [],
+    "chunk_id": "chunk_0029",
+    "chunk_type": "section",
+    "text": "WDH"
+  },
+  {
+    "section": "Model",
+    "subsection": "Model",
+    "page": 8,
+    "linked_images": [],
+    "chunk_id": "chunk_0030",
+    "chunk_type": "section",
+    "text": "Model"
+  },
+  {
+    "section": "W",
+    "subsection": "W",
+    "page": 8,
+    "linked_images": [],
+    "chunk_id": "chunk_0031",
+    "chunk_type": "section",
+    "text": "W"
+  },
+  {
+    "section": "D",
+    "subsection": "D",
+    "page": 8,
+    "linked_images": [],
+    "chunk_id": "chunk_0032",
+    "chunk_type": "section",
+    "text": "D"
+  },
+  {
+    "section": "H",
+    "subsection": "H",
+    "page": 8,
+    "linked_images": [],
+    "chunk_id": "chunk_0033",
+    "chunk_type": "section",
+    "text": "H\n\n42QHF025\n\n800\n\n188\n\n275\n\n42QHF036 / 42QHF050\n\n940\n\n205\n\n275\n\n42QHF060 / 42QHF065\n\n1045\n\n235\n\n315\n\n42QHF080\n\n1260\n\n363\n\n283\n\n8"
+  },
+  {
+    "section": "Section 3",
+    "subsection": "3.2 Outdoor Unit",
+    "page": 9,
+    "linked_images": [
+      "img_002"
+    ],
+    "chunk_id": "chunk_0034",
+    "chunk_type": "section",
+    "text": "3.2 Outdoor Unit"
+  },
+  {
+    "section": "More than 30cmMore than 60cmMore than 200cmMore than 30cm",
+    "subsection": "More than 30cmMore than 60cmMore than 200cmMore than 30cm",
+    "page": 9,
+    "linked_images": [
+      "img_002"
+    ],
+    "chunk_id": "chunk_0035",
+    "chunk_type": "section",
+    "text": "More than 30cmMore than 60cmMore than 200cmMore than 30cm"
+  },
+  {
+    "section": "More than 60cm(Service space)",
+    "subsection": "More than 60cm(Service space)",
+    "page": 9,
+    "linked_images": [
+      "img_002"
+    ],
+    "chunk_id": "chunk_0036",
+    "chunk_type": "section",
+    "text": "More than 60cm(Service space)"
+  },
+  {
+    "section": "Fence orobstacles",
+    "subsection": "Fence orobstacles",
+    "page": 9,
+    "linked_images": [
+      "img_002"
+    ],
+    "chunk_id": "chunk_0037",
+    "chunk_type": "section",
+    "text": "Fence orobstacles"
+  },
+  {
+    "section": "More than 20cm",
+    "subsection": "More than 20cm",
+    "page": 9,
+    "linked_images": [
+      "img_002"
+    ],
+    "chunk_id": "chunk_0038",
+    "chunk_type": "section",
+    "text": "More than 20cm"
+  },
+  {
+    "section": "Model",
+    "subsection": "Model",
+    "page": 9,
+    "linked_images": [
+      "img_002"
+    ],
+    "chunk_id": "chunk_0039",
+    "chunk_type": "section",
+    "text": "Model"
+  },
+  {
+    "section": "W",
+    "subsection": "W",
+    "page": 9,
+    "linked_images": [
+      "img_002"
+    ],
+    "chunk_id": "chunk_0040",
+    "chunk_type": "section",
+    "text": "W"
+  },
+  {
+    "section": "D",
+    "subsection": "D",
+    "page": 9,
+    "linked_images": [
+      "img_002"
+    ],
+    "chunk_id": "chunk_0041",
+    "chunk_type": "section",
+    "text": "D"
+  },
+  {
+    "section": "H",
+    "subsection": "H",
+    "page": 9,
+    "linked_images": [
+      "img_002"
+    ],
+    "chunk_id": "chunk_0042",
+    "chunk_type": "section",
+    "text": "H"
+  },
+  {
+    "section": "W1",
+    "subsection": "W1",
+    "page": 9,
+    "linked_images": [
+      "img_002"
+    ],
+    "chunk_id": "chunk_0043",
+    "chunk_type": "section",
+    "text": "W1"
+  },
+  {
+    "section": "A",
+    "subsection": "A",
+    "page": 9,
+    "linked_images": [
+      "img_002"
+    ],
+    "chunk_id": "chunk_0044",
+    "chunk_type": "section",
+    "text": "A\n\n38QHF025\n\n780\n\n250\n\n540\n\n843\n\n549\n\n38QHF036 / 38QHF050\n\n810\n\n310\n\n558\n\n877\n\n549\n\n38QHF060\n\n845\n\n320\n\n700\n\n908\n\n560\n\n38QHF065 / 38QHF080\n\n900\n\n315\n\n860\n\n980\n\n590\n\n9"
+  },
+  {
+    "section": "B",
+    "subsection": "B",
+    "page": 9,
+    "linked_images": [
+      "img_002"
+    ],
+    "chunk_id": "chunk_0045",
+    "chunk_type": "section",
+    "text": "B\n\n276\n\n325\n\n335\n\n333\n\n4. Refrigerant Cycle Diagram"
+  },
+  {
+    "section": "CHECK VALVE(Heating Model only)CAPILIARY TUBE",
+    "subsection": "CHECK VALVE(Heating Model only)CAPILIARY TUBE",
+    "page": 10,
+    "linked_images": [],
+    "chunk_id": "chunk_0046",
+    "chunk_type": "section",
+    "text": "CHECK VALVE(Heating Model only)CAPILIARY TUBE"
+  },
+  {
+    "section": "LIQUID SIDEGAS SIDEHEAT EXCHANGE(EVAPORATOR)HEAT EXCHANGE(CONDENSER)Compressor2-",
+    "subsection": "LIQUID SIDEGAS SIDEHEAT EXCHANGE(EVAPORATOR)HEAT EXCHANGE(CONDENSER)Compressor2-",
+    "page": 10,
+    "linked_images": [],
+    "chunk_id": "chunk_0047",
+    "chunk_type": "section",
+    "text": "LIQUID SIDEGAS SIDEHEAT EXCHANGE(EVAPORATOR)HEAT EXCHANGE(CONDENSER)Compressor2-WAY VALVE3-WAY VALVE"
+  },
+  {
+    "section": "4-WAY VALVECOOLINGHEATING",
+    "subsection": "4-WAY VALVECOOLINGHEATING",
+    "page": 10,
+    "linked_images": [],
+    "chunk_id": "chunk_0048",
+    "chunk_type": "section",
+    "text": "4-WAY VALVECOOLINGHEATING\n\nT2 Evaporator temp. sensorT1 Room temp. sensorT3 Condenser temp. sensor"
+  },
+  {
+    "section": "AccumulatorT5 Discharge temp. sensor",
+    "subsection": "AccumulatorT5 Discharge temp. sensor",
+    "page": 10,
+    "linked_images": [],
+    "chunk_id": "chunk_0049",
+    "chunk_type": "section",
+    "text": "AccumulatorT5 Discharge temp. sensor"
+  },
+  {
+    "section": "T4 Ambient temp. sensorINDOOROUTDOOR",
+    "subsection": "T4 Ambient temp. sensorINDOOROUTDOOR",
+    "page": 10,
+    "linked_images": [
+      "img_003",
+      "img_004"
+    ],
+    "chunk_id": "chunk_0050",
+    "chunk_type": "section",
+    "text": "T4 Ambient temp. sensorINDOOROUTDOOR\n\n10\n\n5. Wiring Diagram"
+  },
+  {
+    "section": "Section 5",
+    "subsection": "5.1 Indoor Unit",
+    "page": 11,
+    "linked_images": [
+      "img_003",
+      "img_004",
+      "img_005",
+      "img_006"
+    ],
+    "chunk_id": "chunk_0051",
+    "chunk_type": "section",
+    "text": "5.1 Indoor Unit\n\n42QHF025, 42QHF036, 42QHF050\n\n42QHF060, 42QHF065\n\n11\n\n42QHF080"
+  },
+  {
+    "section": "Section 5",
+    "subsection": "5.2 Outdoor Unit 38QHF025, 38QHF036, 38QHF050",
+    "page": 12,
+    "linked_images": [
+      "img_005",
+      "img_006",
+      "img_007",
+      "img_008"
+    ],
+    "chunk_id": "chunk_0052",
+    "chunk_type": "section",
+    "text": "5.2 Outdoor Unit 38QHF025, 38QHF036, 38QHF050\n\n12\n\n38QHF060, 38QHF065\n\n38QHF080\n\n13"
+  },
+  {
+    "section": "Section 6",
+    "subsection": "6 Installation Details",
+    "page": 14,
+    "linked_images": [],
+    "chunk_id": "chunk_0053",
+    "chunk_type": "section",
+    "text": "6 Installation Details"
+  },
+  {
+    "section": "Section 6",
+    "subsection": "6.1 Wrench torque sheet for installation",
+    "page": 14,
+    "linked_images": [],
+    "chunk_id": "chunk_0054",
+    "chunk_type": "section",
+    "text": "6.1 Wrench torque sheet for installation"
+  },
+  {
+    "section": "Outside diameter",
+    "subsection": "Outside diameter",
+    "page": 14,
+    "linked_images": [],
+    "chunk_id": "chunk_0055",
+    "chunk_type": "section",
+    "text": "Outside diameter"
+  },
+  {
+    "section": "Torque",
+    "subsection": "Torque",
+    "page": 14,
+    "linked_images": [],
+    "chunk_id": "chunk_0056",
+    "chunk_type": "section",
+    "text": "Torque"
+  },
+  {
+    "section": "Additional tightening torque",
+    "subsection": "Additional tightening torque",
+    "page": 14,
+    "linked_images": [],
+    "chunk_id": "chunk_0057",
+    "chunk_type": "section",
+    "text": "Additional tightening torque"
+  },
+  {
+    "section": "mm",
+    "subsection": "mm",
+    "page": 14,
+    "linked_images": [],
+    "chunk_id": "chunk_0058",
+    "chunk_type": "section",
+    "text": "mm"
+  },
+  {
+    "section": "inch",
+    "subsection": "inch",
+    "page": 14,
+    "linked_images": [],
+    "chunk_id": "chunk_0059",
+    "chunk_type": "section",
+    "text": "inch"
+  },
+  {
+    "section": "N.cm",
+    "subsection": "N.cm",
+    "page": 14,
+    "linked_images": [],
+    "chunk_id": "chunk_0060",
+    "chunk_type": "section",
+    "text": "N.cm"
+  },
+  {
+    "section": "N.cm",
+    "subsection": "N.cm",
+    "page": 14,
+    "linked_images": [],
+    "chunk_id": "chunk_0061",
+    "chunk_type": "section",
+    "text": "N.cm\n\nФ6.35\n\n1/4\n\n1500(153kgf.cm)\n\n1600(163kgf.cm)\n\nФ9.52\n\n3/8\n\n2500(255kgf.cm)\n\n2600(265kgf.cm)\n\nФ12.7\n\n1/2\n\n3500(357kgf.cm)\n\n3600(367kgf.cm)\n\nФ15.9\n\n5/8\n\n4500(459kgf.cm)\n\n4700(479kgf.cm)\n\nФ19\n\n3/4\n\n6500(663kgf.cm)\n\n6700(683kgf.cm)\n\n6.2 Connecting the cables\n\nThe power cord of connect should be selected according to the following specifications sheet."
+  },
+  {
+    "section": "Model",
+    "subsection": "Model",
+    "page": 14,
+    "linked_images": [],
+    "chunk_id": "chunk_0062",
+    "chunk_type": "section",
+    "text": "Model\n\nRated(max) current of appliance(A)\n\nQHF025 / QHF036\n\n11.5"
+  },
+  {
+    "section": "QHF050",
+    "subsection": "QHF050",
+    "page": 14,
+    "linked_images": [],
+    "chunk_id": "chunk_0063",
+    "chunk_type": "section",
+    "text": "QHF050\n\n12.5\n\nQHF060 / QHF065\n\n14.5"
+  },
+  {
+    "section": "QHF080",
+    "subsection": "QHF080",
+    "page": 14,
+    "linked_images": [],
+    "chunk_id": "chunk_0064",
+    "chunk_type": "section",
+    "text": "QHF080\n\n16.0\n\nThe cable size and the current of the fuse or switch are determined by the maximum current indicated\n\non the nameplate which located on the side panel of the unit. Please refer to the nameplate before\n\nselecting the cable, fuse and switch.\n\n14"
+  },
+  {
+    "section": "Section 6",
+    "subsection": "6.3 Pipe length and the elevation",
+    "page": 15,
+    "linked_images": [
+      "img_009"
+    ],
+    "chunk_id": "chunk_0065",
+    "chunk_type": "section",
+    "text": "6.3 Pipe length and the elevation"
+  },
+  {
+    "section": "The pipe length and refrigerant amount:",
+    "subsection": "The pipe length and refrigerant amount:",
+    "page": 15,
+    "linked_images": [
+      "img_009"
+    ],
+    "chunk_id": "chunk_0066",
+    "chunk_type": "section",
+    "text": "The pipe length and refrigerant amount:"
+  },
+  {
+    "section": "Model",
+    "subsection": "Model",
+    "page": 15,
+    "linked_images": [
+      "img_009"
+    ],
+    "chunk_id": "chunk_0067",
+    "chunk_type": "section",
+    "text": "Model"
+  },
+  {
+    "section": "Pipe size",
+    "subsection": "Pipe size",
+    "page": 15,
+    "linked_images": [
+      "img_009"
+    ],
+    "chunk_id": "chunk_0068",
+    "chunk_type": "section",
+    "text": "Pipe size"
+  },
+  {
+    "section": "Gas",
+    "subsection": "Gas",
+    "page": 15,
+    "linked_images": [
+      "img_009"
+    ],
+    "chunk_id": "chunk_0069",
+    "chunk_type": "section",
+    "text": "Gas"
+  },
+  {
+    "section": "Liquid",
+    "subsection": "Liquid",
+    "page": 15,
+    "linked_images": [
+      "img_009"
+    ],
+    "chunk_id": "chunk_0070",
+    "chunk_type": "section",
+    "text": "Liquid"
+  },
+  {
+    "section": "Minimum length (m)",
+    "subsection": "Minimum length (m)",
+    "page": 15,
+    "linked_images": [
+      "img_009"
+    ],
+    "chunk_id": "chunk_0071",
+    "chunk_type": "section",
+    "text": "Minimum length (m)"
+  },
+  {
+    "section": "Standard length (m)",
+    "subsection": "Standard length (m)",
+    "page": 15,
+    "linked_images": [
+      "img_009"
+    ],
+    "chunk_id": "chunk_0072",
+    "chunk_type": "section",
+    "text": "Standard length (m)"
+  },
+  {
+    "section": "Charge less Length",
+    "subsection": "Charge less Length",
+    "page": 15,
+    "linked_images": [
+      "img_009"
+    ],
+    "chunk_id": "chunk_0073",
+    "chunk_type": "section",
+    "text": "Charge less Length"
+  },
+  {
+    "section": "Max. Elevation B (m)",
+    "subsection": "Max. Elevation B (m)",
+    "page": 15,
+    "linked_images": [
+      "img_009"
+    ],
+    "chunk_id": "chunk_0074",
+    "chunk_type": "section",
+    "text": "Max. Elevation B (m)"
+  },
+  {
+    "section": "Max. Length A (m)",
+    "subsection": "Max. Length A (m)",
+    "page": 15,
+    "linked_images": [
+      "img_009"
+    ],
+    "chunk_id": "chunk_0075",
+    "chunk_type": "section",
+    "text": "Max. Length A (m)\n\n42QHF025 + 38QHF025\n\n3/8’’ (Ф9.52)\n\n1/4’’ (Ф6.35)\n\n3\n\n5\n\n5\n\n8\n\n20\n\n42QHF036 + 38QHF036\n\n3\n\n5\n\n5\n\n8\n\n20\n\n1/2’’ (Ф12.7)\n\n1/4’’ (Ф6.35)\n\n42QHF050 + 38QHF050\n\n3\n\n5\n\n5\n\n10\n\n25\n\n42QHF060 + 38QHF060\n\n3\n\n5\n\n5\n\n10\n\n25\n\n42QHF065 + 38QHF065\n\n5/8’’ (Ф15.9)\n\n3/8’’ (Ф9.52)\n\n3\n\n5\n\n5\n\n10\n\n25\n\n42QHF080 + 38QHF080\n\n3\n\n5\n\n5\n\n10\n\n25"
+  },
+  {
+    "section": "Outdoor unit",
+    "subsection": "Outdoor unit",
+    "page": 15,
+    "linked_images": [
+      "img_009"
+    ],
+    "chunk_id": "chunk_0076",
+    "chunk_type": "section",
+    "text": "Outdoor unit"
+  },
+  {
+    "section": "Indoor unit",
+    "subsection": "Indoor unit",
+    "page": 15,
+    "linked_images": [
+      "img_009"
+    ],
+    "chunk_id": "chunk_0077",
+    "chunk_type": "section",
+    "text": "Indoor unit"
+  },
+  {
+    "section": "Caution:",
+    "subsection": "Caution:",
+    "page": 15,
+    "linked_images": [
+      "img_009"
+    ],
+    "chunk_id": "chunk_0078",
+    "chunk_type": "section",
+    "text": "Caution:\n\nThe capacity test is based on the standard length and the maximum permissive length is based on the"
+  },
+  {
+    "section": "system reliability.",
+    "subsection": "system reliability.",
+    "page": 15,
+    "linked_images": [
+      "img_009"
+    ],
+    "chunk_id": "chunk_0079",
+    "chunk_type": "section",
+    "text": "system reliability.\n\nThe oil trap should be installed per 5-7 meters.\n\n15"
+  },
+  {
+    "section": "Additional refrigerant (g/m)",
+    "subsection": "Additional refrigerant (g/m)",
+    "page": 15,
+    "linked_images": [
+      "img_009"
+    ],
+    "chunk_id": "chunk_0080",
+    "chunk_type": "section",
+    "text": "Additional refrigerant (g/m)\n\n15\n\n15\n\n15\n\n30\n\n30\n\n30"
+  },
+  {
+    "section": "Section 6",
+    "subsection": "6.4 Installation for the first time",
+    "page": 16,
+    "linked_images": [],
+    "chunk_id": "chunk_0081",
+    "chunk_type": "section",
+    "text": "6.4 Installation for the first time\n\nAir and moisture in the refrigerant system have undesirable effects as below:\n\nPressure in the system rises.\n\nOperating current rises.\n\nCooling or heating efficiency drops.\n\nMoisture in the refrigerant circuit may freeze and block capillary tubing.\n\nWater may lead to corrosion of parts in the refrigerant system.\n\nTherefore, the indoor units and the pipes between indoor and outdoor units must be leak tested\n\nand evacuated to remove gas and moisture from the system."
+  },
+  {
+    "section": "Gas leak check (Soap water method):",
+    "subsection": "Gas leak check (Soap water method):",
+    "page": 16,
+    "linked_images": [],
+    "chunk_id": "chunk_0082",
+    "chunk_type": "section",
+    "text": "Gas leak check (Soap water method):\n\nApply soap water or a liquid neutral detergent on the indoor unit connections or outdoor unit\n\nconnections by a soft brush to check for leakage of the connecting points of the piping. If bubbles\n\ncome out, the pipes have leakage.\n\n1. Air purging with vacuum pump"
+  },
+  {
+    "section": "(Indoor unit)",
+    "subsection": "(Indoor unit)",
+    "page": 16,
+    "linked_images": [],
+    "chunk_id": "chunk_0083",
+    "chunk_type": "section",
+    "text": "(Indoor unit)"
+  },
+  {
+    "section": "(Liquid side)",
+    "subsection": "(Liquid side)",
+    "page": 16,
+    "linked_images": [],
+    "chunk_id": "chunk_0084",
+    "chunk_type": "section",
+    "text": "(Liquid side)"
+  },
+  {
+    "section": "(Outdoor unit)",
+    "subsection": "(Outdoor unit)",
+    "page": 16,
+    "linked_images": [],
+    "chunk_id": "chunk_0085",
+    "chunk_type": "section",
+    "text": "(Outdoor unit)"
+  },
+  {
+    "section": "Two-way valve",
+    "subsection": "Two-way valve",
+    "page": 16,
+    "linked_images": [],
+    "chunk_id": "chunk_0086",
+    "chunk_type": "section",
+    "text": "Two-way valve"
+  },
+  {
+    "section": "Close",
+    "subsection": "Close",
+    "page": 16,
+    "linked_images": [],
+    "chunk_id": "chunk_0087",
+    "chunk_type": "section",
+    "text": "Close"
+  },
+  {
+    "section": "(Gas side)",
+    "subsection": "(Gas side)",
+    "page": 16,
+    "linked_images": [],
+    "chunk_id": "chunk_0088",
+    "chunk_type": "section",
+    "text": "(Gas side)"
+  },
+  {
+    "section": "Manifold valve",
+    "subsection": "Manifold valve",
+    "page": 16,
+    "linked_images": [],
+    "chunk_id": "chunk_0089",
+    "chunk_type": "section",
+    "text": "Manifold valve"
+  },
+  {
+    "section": "Three-way valve Close",
+    "subsection": "Three-way valve Close",
+    "page": 16,
+    "linked_images": [],
+    "chunk_id": "chunk_0090",
+    "chunk_type": "section",
+    "text": "Three-way valve Close"
+  },
+  {
+    "section": "Compound meter",
+    "subsection": "Compound meter",
+    "page": 16,
+    "linked_images": [],
+    "chunk_id": "chunk_0091",
+    "chunk_type": "section",
+    "text": "Compound meter"
+  },
+  {
+    "section": "Pressure gauge",
+    "subsection": "Pressure gauge",
+    "page": 16,
+    "linked_images": [],
+    "chunk_id": "chunk_0092",
+    "chunk_type": "section",
+    "text": "Pressure gauge\n\n0.1MPa"
+  },
+  {
+    "section": "Lo",
+    "subsection": "Lo",
+    "page": 16,
+    "linked_images": [],
+    "chunk_id": "chunk_0093",
+    "chunk_type": "section",
+    "text": "Lo"
+  },
+  {
+    "section": "Hi",
+    "subsection": "Hi",
+    "page": 16,
+    "linked_images": [],
+    "chunk_id": "chunk_0094",
+    "chunk_type": "section",
+    "text": "Hi"
+  },
+  {
+    "section": "Handle Lo Charge hose",
+    "subsection": "Handle Lo Charge hose",
+    "page": 16,
+    "linked_images": [],
+    "chunk_id": "chunk_0095",
+    "chunk_type": "section",
+    "text": "Handle Lo Charge hose"
+  },
+  {
+    "section": "Handle Hi Charge hose",
+    "subsection": "Handle Hi Charge hose",
+    "page": 16,
+    "linked_images": [],
+    "chunk_id": "chunk_0096",
+    "chunk_type": "section",
+    "text": "Handle Hi Charge hose"
+  },
+  {
+    "section": "Vacuum pump",
+    "subsection": "Vacuum pump",
+    "page": 16,
+    "linked_images": [],
+    "chunk_id": "chunk_0097",
+    "chunk_type": "section",
+    "text": "Vacuum pump"
+  },
+  {
+    "section": "Vacuum pump",
+    "subsection": "Vacuum pump",
+    "page": 16,
+    "linked_images": [
+      "img_010"
+    ],
+    "chunk_id": "chunk_0098",
+    "chunk_type": "section",
+    "text": "Vacuum pump\n\n16\n\n1) Completely tighten the flare nuts of the indoor and outdoor units, confirm that both the 2-way and\n\n3-way valves are set to the closed position.\n\n2) Connect the charge hose with the push pin of handle lo to the 3-way valves gas service port..\n\n3) Connect the charge hose of handle hi connection to the vacuum pump.\n\n4) Fully open the handle Lo of the manifold valve.\n\n5) Operate the vacuum pump to evacuate.\n\n6) Make evacuation for 30 minutes and check whether the compound meter indicates -0.1Mpa. If the\n\nmeter does not indicate -0.1Mpa after pumping 30 minutes, it should be pumped 20 minutes more.\n\nIf the pressure can’t achieve -0.1Mpa after pumping 50 minutes, please check if there are some"
+  },
+  {
+    "section": "leakage points.",
+    "subsection": "leakage points.",
+    "page": 17,
+    "linked_images": [
+      "img_010"
+    ],
+    "chunk_id": "chunk_0099",
+    "chunk_type": "section",
+    "text": "leakage points.\n\nFully close the handle Lo valve of the manifold valve and stop the operation of the vacuum pump.\n\nConfirm that the gauge needle does not move (approximately 5 minutes after turning off the vacuum"
+  },
+  {
+    "section": "pump).",
+    "subsection": "pump).",
+    "page": 17,
+    "linked_images": [
+      "img_010"
+    ],
+    "chunk_id": "chunk_0100",
+    "chunk_type": "section",
+    "text": "pump).\n\n7) Make sure the pressure display in the pressure indicator is a little higher than the atmosphere\n\npressure. Then remove the charge hose from the 3 way valve.\n\n8) Fully open the 2 way valve and 3 way valve and securely tighten the cap of the 3 way valve.\n\n2. Adding the refrigerant if the pipe length >5m"
+  },
+  {
+    "section": "Electronic scale",
+    "subsection": "Electronic scale",
+    "page": 17,
+    "linked_images": [
+      "img_010"
+    ],
+    "chunk_id": "chunk_0101",
+    "chunk_type": "section",
+    "text": "Electronic scale"
+  },
+  {
+    "section": "Procedure:",
+    "subsection": "Procedure:",
+    "page": 17,
+    "linked_images": [
+      "img_010",
+      "img_011"
+    ],
+    "chunk_id": "chunk_0102",
+    "chunk_type": "section",
+    "text": "Procedure:\n\n17\n\n1). Connect the charge hose to the charging cylinder, open the 2-way valve and the 3-way valve.\n\nConnect the charge hose which you disconnected from the vacuum pump to the valve at the bottom of\n\nthe cylinder. If the refrigerant is R410A, make the cylinder bottom up to ensure the liquid charge.\n\n2). Purge the air from the charge hose.\n\nOpen the valve at the bottom of the cylinder and press the check valve on the charge set to purge the\n\nair (be careful of the liquid refrigerant).\n\n3) Put the charging cylinder onto the electronic scale and record the weight.\n\n4) Operate the air conditioner at the cooling mode.\n\n5) Open the valves (Low side) on the charge set and charge the system with liquid refrigerant.\n\n6).When the electronic scale displays the proper weight (refer to the table), disconnect the charge hose\n\nfrom the 3-way valve’s service port immediately and turn off the air conditioner before disconnecting the"
+  },
+  {
+    "section": "hose.",
+    "subsection": "hose.",
+    "page": 18,
+    "linked_images": [
+      "img_011"
+    ],
+    "chunk_id": "chunk_0103",
+    "chunk_type": "section",
+    "text": "hose."
+  },
+  {
+    "section": "7). Mount the valve stem caps and the service port",
+    "subsection": "7). Mount the valve stem caps and the service port",
+    "page": 18,
+    "linked_images": [
+      "img_011"
+    ],
+    "chunk_id": "chunk_0104",
+    "chunk_type": "section",
+    "text": "7). Mount the valve stem caps and the service port\n\nUse torque wrench to tighten the service port cap to a torque of 18N.m.\n\nBe sure to check for gas leakage.\n\n6.5 Adding the refrigerant after running the system for many years"
+  },
+  {
+    "section": "Electronic scale",
+    "subsection": "Electronic scale",
+    "page": 18,
+    "linked_images": [
+      "img_011"
+    ],
+    "chunk_id": "chunk_0105",
+    "chunk_type": "section",
+    "text": "Electronic scale"
+  },
+  {
+    "section": "Procedure:",
+    "subsection": "Procedure:",
+    "page": 18,
+    "linked_images": [
+      "img_011",
+      "img_012"
+    ],
+    "chunk_id": "chunk_0106",
+    "chunk_type": "section",
+    "text": "Procedure:\n\n18\n\n1). Connect the charge hose to the 3-way service port, open the 2-way valve and the 3-way valve.\n\nConnect the charge hose to the valve at the bottom of the cylinder. If the refrigerant is R410A, make\n\nthe cylinder bottom up to ensure liquid charge.\n\n2). Purge the air from the charge hose.\n\nOpen the valve at the bottom of the cylinder and press the check valve on the charge set to purge the\n\nair (be careful of the liquid refrigerant).\n\n3) Put the charging cylinder onto the electronic scale and record the weight.\n\n4) Operate the air conditioner at the cooling mode.\n\n5) Open the valves (Low side) on the charge set and charge the system with liquid refrigerant.\n\n6).When the electronic scale displays the proper weight (refer to the gauge and the pressure of the low\n\nside), disconnect the charge hose from the 3-way valve’s service port immediately and turn off the air\n\nconditioner before disconnecting the hose."
+  },
+  {
+    "section": "7). Mount the valve stem caps and the service port",
+    "subsection": "7). Mount the valve stem caps and the service port",
+    "page": 19,
+    "linked_images": [
+      "img_012"
+    ],
+    "chunk_id": "chunk_0107",
+    "chunk_type": "section",
+    "text": "7). Mount the valve stem caps and the service port\n\nUse torque wrench to tighten the service port cap to a torque of 18N.m.\n\nBe sure to check for gas leakage.\n\n6.6 Re-installation while the indoor unit need to be repaired\n\n1. Collecting the refrigerant into the outdoor unit\n\n19"
+  },
+  {
+    "section": "Procedure",
+    "subsection": "Procedure",
+    "page": 20,
+    "linked_images": [
+      "img_013"
+    ],
+    "chunk_id": "chunk_0108",
+    "chunk_type": "section",
+    "text": "Procedure\n\n1). Confirm that both the 2-way and 3-way valves are set to the opened position\n\nRemove the valve stem caps and confirm that the valve stems are in the opened position.\n\nBe sure to use a hexagonal wrench to operate the valve stems.\n\n2). Connect the charge hose with the push pin of handle lo to the 3-way valves gas service port."
+  },
+  {
+    "section": "3). Air purging of the charge hose.",
+    "subsection": "3). Air purging of the charge hose.",
+    "page": 20,
+    "linked_images": [
+      "img_013"
+    ],
+    "chunk_id": "chunk_0109",
+    "chunk_type": "section",
+    "text": "3). Air purging of the charge hose.\n\nOpen the handle Lo valve of the manifold valve slightly to purge air from the charge hose for 5 seconds\n\nand then close it quickly.\n\n4). Set the 2-way valve to the close position.\n\n5). Operate the air conditioner at the cooling cycle and stop it when the gauge indicates 0.1MPa.\n\n6). Set the 3-way valve to the closed position immediately\n\nDo this quickly so that the gauge ends up indicating 0.3 to 0.5Mpa.\n\nDisconnect the charge set, and tighten the 2-way and 3-way valve’s stem nuts.\n\nUse a torque wrench to tighten the 3-way valves service port cap to a torque of 18N.m.\n\nBe sure to check for gas leakage.\n\n2. Air purging by the refrigerant"
+  },
+  {
+    "section": "Procedure:",
+    "subsection": "Procedure:",
+    "page": 20,
+    "linked_images": [
+      "img_013"
+    ],
+    "chunk_id": "chunk_0110",
+    "chunk_type": "section",
+    "text": "Procedure:\n\n20\n\n1). Confirm that both the 2-way and 3-way valves are set to the closed position.\n\n2). Connect the charge set and a charging cylinder to the service port of the 3-way valve\n\nLeave the valve on the charging cylinder closed."
+  },
+  {
+    "section": "3). Air purging.",
+    "subsection": "3). Air purging.",
+    "page": 21,
+    "linked_images": [],
+    "chunk_id": "chunk_0111",
+    "chunk_type": "section",
+    "text": "3). Air purging.\n\nOpen the valves on the charging cylinder and the charge set. Purge the air by loosening the flare nut on\n\nthe 2-way valve approximately 45’ for 3 seconds then closing it for 1 minute; repeat 3 times.\n\nAfter purging the air, use a torque wrench to tighten the flare nut on the 2-way valve.\n\n4). Check the gas leakage\n\nCheck the flare connections for gas leakage.\n\n5). Discharge the refrigerant.\n\nClose the valve on the charging cylinder and discharge the refrigerant by loosening the flare nut on the\n\n2-way valve approximately 45’ until the gauge indicates 0.3 to 0.5 Mpa.\n\n6). Disconnect the charge set and the charging cylinder, and set the 2-way and 3-way valves to the open"
+  },
+  {
+    "section": "position",
+    "subsection": "position",
+    "page": 21,
+    "linked_images": [],
+    "chunk_id": "chunk_0112",
+    "chunk_type": "section",
+    "text": "position\n\nBe sure to use a hexagonal wrench to operate the valve stems.\n\n7). Mount the valve stems nuts and the service port cap\n\nBe sure to use a torque wrench to tighten the service port cap to a torque 18N.m.\n\nBe sure to check the gas leakage.\n\n6.7 Re-installation while the outdoor unit need to be repaired\n\n1. Evacuation for the whole system\n\n21"
+  },
+  {
+    "section": "Procedure:",
+    "subsection": "Procedure:",
+    "page": 22,
+    "linked_images": [
+      "img_014",
+      "img_015"
+    ],
+    "chunk_id": "chunk_0113",
+    "chunk_type": "section",
+    "text": "Procedure:\n\n1). Confirm that both the 2-way and 3-way valves are set to the opened position.\n\n2). Connect the vacuum pump to 3-way valve’s service port.\n\n3). Evacuation for approximately one hour. Confirm that the compound meter indicates -0.1Mpa.\n\n4). Close the valve (Low side) on the charge set, turn off the vacuum pump, and confirm that the gauge\n\nneedle does not move (approximately 5 minutes after turning off the vacuum pump).\n\n5). Disconnect the charge hose from the vacuum pump.\n\n22\n\n2. Refrigerant charging"
+  },
+  {
+    "section": "Electronic scale",
+    "subsection": "Electronic scale",
+    "page": 23,
+    "linked_images": [
+      "img_015"
+    ],
+    "chunk_id": "chunk_0114",
+    "chunk_type": "section",
+    "text": "Electronic scale"
+  },
+  {
+    "section": "Procedure:",
+    "subsection": "Procedure:",
+    "page": 23,
+    "linked_images": [
+      "img_015"
+    ],
+    "chunk_id": "chunk_0115",
+    "chunk_type": "section",
+    "text": "Procedure:\n\n1). Connect the charge hose to the charging cylinder, open the 2-way valve and the 3-way valve\n\nConnect the charge hose which you disconnected from the vacuum pump to the valve at the bottom of\n\nthe cylinder. If the refrigerant is R410A, make the cylinder bottom up to ensure liquid charge.\n\n2). Purge the air from the charge hose\n\nOpen the valve at the bottom of the cylinder and press the check valve on the charge set to purge the\n\nair (be careful of the liquid refrigerant).\n\n3) Put the charging cylinder onto the electronic scale and record the weight.\n\n4). Open the valves (Low side) on the charge set and charge the system with liquid refrigerant\n\nIf the system cannot be charge with the specified amount of refrigerant, or can be charged with a little at\n\na time (approximately 150g each time) , operating the air conditioner in the cooling cycle; however, one\n\ntime is not sufficient, wait approximately 1 minute and then repeat the procedure.\n\n5).When the electronic scale displays the proper weight, disconnect the charge hose from the 3-way"
+  },
+  {
+    "section": "valve’s service port immediately",
+    "subsection": "valve’s service port immediately",
+    "page": 23,
+    "linked_images": [
+      "img_015"
+    ],
+    "chunk_id": "chunk_0116",
+    "chunk_type": "section",
+    "text": "valve’s service port immediately\n\nIf the system has been charged with liquid refrigerant while operating the air conditioner, turn off the air\n\nconditioner before disconnecting the hose.\n\n6). Mounted the valve stem caps and the service port\n\n23\n\nUse torque wrench to tighten the service port cap to a torque of 18N.m.\n\nBe sure to check for gas leakage\n\n24\n\n7. Operation Characteristics"
+  },
+  {
+    "section": "Mode",
+    "subsection": "Mode",
+    "page": 25,
+    "linked_images": [],
+    "chunk_id": "chunk_0117",
+    "chunk_type": "section",
+    "text": "Mode"
+  },
+  {
+    "section": "Temperature",
+    "subsection": "Temperature",
+    "page": 25,
+    "linked_images": [],
+    "chunk_id": "chunk_0118",
+    "chunk_type": "section",
+    "text": "Temperature\n\nCooling operation\n\nHeating operation"
+  },
+  {
+    "section": "Room temperature",
+    "subsection": "Room temperature",
+    "page": 25,
+    "linked_images": [],
+    "chunk_id": "chunk_0119",
+    "chunk_type": "section",
+    "text": "Room temperature\n\n18℃~32℃\n\n0℃~27℃"
+  },
+  {
+    "section": "Outdoor temperature",
+    "subsection": "Outdoor temperature",
+    "page": 25,
+    "linked_images": [
+      "img_016"
+    ],
+    "chunk_id": "chunk_0120",
+    "chunk_type": "section",
+    "text": "Outdoor temperature\n\n10℃~46℃\n\n15℃～24℃\n\nCAUTION:\n\n1. If the air conditioner is used beyond the above conditions, certain safety protection features\n\nmay come into operation and cause the unit to operate abnormally.\n\n2. The room relative humidity should be less than 80%. If the air conditioner operates beyond this\n\nfigure, the surface of the air conditioner may attract condensation. Please set the vertical air flow\n\nlouver to its maximum angle (vertically to the floor), and set HIGH fan mode.\n\n3. The optimum performance will be achieved during this operating temperature zone.\n\n25\n\n8. Electronic function"
+  },
+  {
+    "section": "Section 8",
+    "subsection": "8.1 Abbreviation",
+    "page": 26,
+    "linked_images": [
+      "img_016"
+    ],
+    "chunk_id": "chunk_0121",
+    "chunk_type": "section",
+    "text": "8.1 Abbreviation"
+  },
+  {
+    "section": "T1: Indoor room temperature",
+    "subsection": "T1: Indoor room temperature",
+    "page": 26,
+    "linked_images": [
+      "img_016"
+    ],
+    "chunk_id": "chunk_0122",
+    "chunk_type": "section",
+    "text": "T1: Indoor room temperature"
+  },
+  {
+    "section": "T2: Coil temperature of evaporator",
+    "subsection": "T2: Coil temperature of evaporator",
+    "page": 26,
+    "linked_images": [
+      "img_016"
+    ],
+    "chunk_id": "chunk_0123",
+    "chunk_type": "section",
+    "text": "T2: Coil temperature of evaporator"
+  },
+  {
+    "section": "T3: Coil temperature of condenser",
+    "subsection": "T3: Coil temperature of condenser",
+    "page": 26,
+    "linked_images": [
+      "img_016"
+    ],
+    "chunk_id": "chunk_0124",
+    "chunk_type": "section",
+    "text": "T3: Coil temperature of condenser"
+  },
+  {
+    "section": "T4: Outdoor ambient temperature",
+    "subsection": "T4: Outdoor ambient temperature",
+    "page": 26,
+    "linked_images": [
+      "img_016"
+    ],
+    "chunk_id": "chunk_0125",
+    "chunk_type": "section",
+    "text": "T4: Outdoor ambient temperature"
+  },
+  {
+    "section": "T5: Compressor discharge temperature",
+    "subsection": "T5: Compressor discharge temperature",
+    "page": 26,
+    "linked_images": [
+      "img_016"
+    ],
+    "chunk_id": "chunk_0126",
+    "chunk_type": "section",
+    "text": "T5: Compressor discharge temperature"
+  },
+  {
+    "section": "Section 8",
+    "subsection": "8.2 Display function",
+    "page": 26,
+    "linked_images": [
+      "img_016"
+    ],
+    "chunk_id": "chunk_0127",
+    "chunk_type": "section",
+    "text": "8.2 Display function"
+  },
+  {
+    "section": "Section 8",
+    "subsection": "8.2.1 Icon explanation on indoor display board.",
+    "page": 26,
+    "linked_images": [
+      "img_016"
+    ],
+    "chunk_id": "chunk_0128",
+    "chunk_type": "section",
+    "text": "8.2.1 Icon explanation on indoor display board.\n\nDEFROST indication lamp(For cooling & heating models only): Lights up\n\nwhen the air conditioner starts defrosting automatically or when the warm air\n\ncontrol feature is activated in heating operation.\n\nOPERATION indication lamp：This lamp illuminates when the air conditioner is in operation.\n\nTIMER indication lamp：Lights up during Timer operation.\n\nTemperature indicator：Displays the temperature settings when the air conditioner is operational. Displays the malfunction code.\n\n26"
+  },
+  {
+    "section": "Section 8",
+    "subsection": "8.3 Main Protection",
+    "page": 27,
+    "linked_images": [],
+    "chunk_id": "chunk_0129",
+    "chunk_type": "section",
+    "text": "8.3 Main Protection"
+  },
+  {
+    "section": "Section 8",
+    "subsection": "8.3.1 Time delay at restart for compressor",
+    "page": 27,
+    "linked_images": [],
+    "chunk_id": "chunk_0130",
+    "chunk_type": "section",
+    "text": "8.3.1 Time delay at restart for compressor\n\n1 minute delay for the 1st time start-up and 3 minutes delay for others."
+  },
+  {
+    "section": "Section 8",
+    "subsection": "8.3.2 Temperature protection of compressor top",
+    "page": 27,
+    "linked_images": [],
+    "chunk_id": "chunk_0131",
+    "chunk_type": "section",
+    "text": "8.3.2 Temperature protection of compressor top\n\nThe unit will stop working when the compressor top temp. protector cut off, and will restart after the"
+  },
+  {
+    "section": "compressor top temp. protector restart.",
+    "subsection": "compressor top temp. protector restart.",
+    "page": 27,
+    "linked_images": [],
+    "chunk_id": "chunk_0132",
+    "chunk_type": "section",
+    "text": "compressor top temp. protector restart."
+  },
+  {
+    "section": "Section 8",
+    "subsection": "8.3.3 Temperature protection of compressor discharge",
+    "page": 27,
+    "linked_images": [],
+    "chunk_id": "chunk_0133",
+    "chunk_type": "section",
+    "text": "8.3.3 Temperature protection of compressor discharge\n\nWhen the compressor discharge temp. is getting higher, the running frequency will be limited as below"
+  },
+  {
+    "section": "rules:",
+    "subsection": "rules:",
+    "page": 27,
+    "linked_images": [],
+    "chunk_id": "chunk_0134",
+    "chunk_type": "section",
+    "text": "rules:\n\n---Compressor discharge temp. T5>115℃ for 5s, compressor stops and restarts up till T5<90℃\n\n---110<T5<115℃, decrease the frequency to the lower level every 2 minutes.\n\n---105<T5<110℃, keep running at the current frequency.\n\n----T5<105℃, no limit for frequency.\n\n8.3.4 Fan Speed is out of control\n\nWhen Indoor Fan Speed keeps too low (300RPM) for certain time, the unit will stop and the LED will\n\ndisplay the failure"
+  },
+  {
+    "section": "Section 8",
+    "subsection": "8.3.5 Inverter module protection",
+    "page": 27,
+    "linked_images": [],
+    "chunk_id": "chunk_0135",
+    "chunk_type": "section",
+    "text": "8.3.5 Inverter module protection\n\nThe Inverter module has a protection function about current, voltage and temperature. If these\n\nprotections happen, the corresponding code will display on indoor unit and the unit will stop working.\n\n8.3.6 Indoor fan delayed open function\n\nWhen the unit starts up, the louver will be active immediately and the indoor fan will open 10s later.\n\nIf the unit runs in heating mode, the indoor fan will be also controlled by anti-cold wind function."
+  },
+  {
+    "section": "Section 8",
+    "subsection": "8.3.7 Compressor preheating functions",
+    "page": 27,
+    "linked_images": [],
+    "chunk_id": "chunk_0136",
+    "chunk_type": "section",
+    "text": "8.3.7 Compressor preheating functions\n\nPreheating permitting condition:\n\nIf T4(outdoor ambient temperature)＜3℃ and the machine connects to power supply newly or if T4＜\n\n3℃ and compressor has stopped for over 3 hours, the compressor heating cable will work.\n\nPreheating mode:\n\nA weak current flow through the coil of compressor from the wiring terminal of the compressor, then the\n\ncompressor is heated without operation.\n\n27\n\nPreheating release condition:\n\nIf T4＞5℃ or the compressor starts running, the preheating function will stop.\n\n8.3.8 Sensor protection at open circuit and breaking disconnection.\n\nWhen there’s one temperature sensor in malfunction, the air conditioner will display error code and will\n\nnot stop immediately, to avoid the case that the air conditioner is in urgent need."
+  },
+  {
+    "section": "T1",
+    "subsection": "T1",
+    "page": 28,
+    "linked_images": [],
+    "chunk_id": "chunk_0137",
+    "chunk_type": "section",
+    "text": "T1\n\nRun supposed T1=26℃ high fan speed\n\nRun supposed T1=26℃ medium fan speed"
+  },
+  {
+    "section": "T2",
+    "subsection": "T2",
+    "page": 28,
+    "linked_images": [],
+    "chunk_id": "chunk_0138",
+    "chunk_type": "section",
+    "text": "T2"
+  },
+  {
+    "section": "Normal",
+    "subsection": "Normal",
+    "page": 28,
+    "linked_images": [],
+    "chunk_id": "chunk_0139",
+    "chunk_type": "section",
+    "text": "Normal\n\nDuring the first 1 minute of compressor operation, indoor fan shuts off. After that, indoor fan runs at medium fan speed for 1 minute and then resume to the setting fan speed."
+  },
+  {
+    "section": "T3",
+    "subsection": "T3",
+    "page": 28,
+    "linked_images": [],
+    "chunk_id": "chunk_0140",
+    "chunk_type": "section",
+    "text": "T3"
+  },
+  {
+    "section": "Run with compressor frequency≤F14",
+    "subsection": "Run with compressor frequency≤F14",
+    "page": 28,
+    "linked_images": [],
+    "chunk_id": "chunk_0141",
+    "chunk_type": "section",
+    "text": "Run with compressor frequency≤F14\n\n3 minutes’ defrosting every 40 minutes when T4<7℃; 2 minutes’ defrosting every 90 minutes when T4≥7℃."
+  },
+  {
+    "section": "T4",
+    "subsection": "T4",
+    "page": 28,
+    "linked_images": [],
+    "chunk_id": "chunk_0142",
+    "chunk_type": "section",
+    "text": "T4\n\nRun supposed T4=50℃\n\nRun supposed T4=15℃"
+  },
+  {
+    "section": "TP",
+    "subsection": "TP",
+    "page": 28,
+    "linked_images": [],
+    "chunk_id": "chunk_0143",
+    "chunk_type": "section",
+    "text": "TP\n\nRun supposed T4=50℃\n\nRun supposed T4=15℃"
+  },
+  {
+    "section": "Section 8",
+    "subsection": "8.3.9 Refrigerant leakage detection",
+    "page": 28,
+    "linked_images": [],
+    "chunk_id": "chunk_0144",
+    "chunk_type": "section",
+    "text": "8.3.9 Refrigerant leakage detection\n\nThis function is only active in cooling mode. It can better prevent the compressor being damaged"
+  },
+  {
+    "section": "by refrigerant leakage or compressor overload.",
+    "subsection": "by refrigerant leakage or compressor overload.",
+    "page": 28,
+    "linked_images": [],
+    "chunk_id": "chunk_0145",
+    "chunk_type": "section",
+    "text": "by refrigerant leakage or compressor overload."
+  },
+  {
+    "section": "Open condition:",
+    "subsection": "Open condition:",
+    "page": 28,
+    "linked_images": [],
+    "chunk_id": "chunk_0146",
+    "chunk_type": "section",
+    "text": "Open condition:\n\nDefine the evaporator coil temp.T2 of the compressor just starts running as Tcool.\n\nIn the beginning 5 minutes after the compressor starts up, if T2 ＜Tcool－2℃ does not keep\n\ncontinuous 4 seconds and this situation happens 3 times, the display area will show “EC” and AC will\n\nturn off.\n\n8.3.10 Zero crossing detection error protection\n\nIf AC detects time interval is not correct for continuous 240s, the unit will stop and the LED will display\n\nthe failure. The correct zero crossing signal time interval should be between 6-13ms.\n\n28"
+  },
+  {
+    "section": "Fault temp. sensor",
+    "subsection": "Fault temp. sensor",
+    "page": 28,
+    "linked_images": [],
+    "chunk_id": "chunk_0147",
+    "chunk_type": "troubleshooting",
+    "text": "Fault temp. sensor\n\nOperation in cooling, drying and fan only mode\n\nOperation in heating mode"
+  },
+  {
+    "section": "Section 8",
+    "subsection": "8.4 Operation Modes and Functions",
+    "page": 29,
+    "linked_images": [],
+    "chunk_id": "chunk_0148",
+    "chunk_type": "section",
+    "text": "8.4 Operation Modes and Functions"
+  },
+  {
+    "section": "Section 8",
+    "subsection": "8.4.1 Fan mode",
+    "page": 29,
+    "linked_images": [],
+    "chunk_id": "chunk_0149",
+    "chunk_type": "section",
+    "text": "8.4.1 Fan mode"
+  },
+  {
+    "section": "(1) Outdoor fan and compressor stop.",
+    "subsection": "(1) Outdoor fan and compressor stop.",
+    "page": 29,
+    "linked_images": [],
+    "chunk_id": "chunk_0150",
+    "chunk_type": "section",
+    "text": "(1) Outdoor fan and compressor stop.\n\n(2) Temperature setting function is disabled, and no setting temperature is displayed.\n\n(3) Indoor fan can be set to high/med/low/auto.\n\n(4) The louver operates same as in cooling mode."
+  },
+  {
+    "section": "(5) Auto fan:",
+    "subsection": "(5) Auto fan:",
+    "page": 29,
+    "linked_images": [],
+    "chunk_id": "chunk_0151",
+    "chunk_type": "section",
+    "text": "(5) Auto fan:\n\nabcd5.04.02.51.06.0T1-24\n\neH(H-L)*0.75+L(H-L)*0.5+L(H-L)*0.25+LL\n\n29"
+  },
+  {
+    "section": "Section 8",
+    "subsection": "8.4.2 Cooling Mode",
+    "page": 30,
+    "linked_images": [],
+    "chunk_id": "chunk_0152",
+    "chunk_type": "section",
+    "text": "8.4.2 Cooling Mode"
+  },
+  {
+    "section": "Section 8",
+    "subsection": "8.4.2.1 Compressor running rules",
+    "page": 30,
+    "linked_images": [],
+    "chunk_id": "chunk_0153",
+    "chunk_type": "section",
+    "text": "8.4.2.1 Compressor running rules\n\nThe maximum operation frequency of compressor after starting submits to following rule."
+  },
+  {
+    "section": "30292220Fmax=T4FREMAX2Fmax=T4FREMAX3Fmax=T4FREMAX4Fmax=T4FREMAX5Fmax=T4FREMAX6Fm",
+    "subsection": "30292220Fmax=T4FREMAX2Fmax=T4FREMAX3Fmax=T4FREMAX4Fmax=T4FREMAX5Fmax=T4FREMAX6Fm",
+    "page": 30,
+    "linked_images": [],
+    "chunk_id": "chunk_0154",
+    "chunk_type": "section",
+    "text": "30292220Fmax=T4FREMAX2Fmax=T4FREMAX3Fmax=T4FREMAX4Fmax=T4FREMAX5Fmax=T4FREMAX6Fmax=T4FREMAX75554OFF\n\n5049454441403332Fmax=T4FREMAX1\n\nMeanwhile, the maximum frequency is limited by the indoor fan speed."
+  },
+  {
+    "section": "Indoor fan speed",
+    "subsection": "Indoor fan speed",
+    "page": 30,
+    "linked_images": [],
+    "chunk_id": "chunk_0155",
+    "chunk_type": "section",
+    "text": "Indoor fan speed"
+  },
+  {
+    "section": "Maximum frequency",
+    "subsection": "Maximum frequency",
+    "page": 30,
+    "linked_images": [],
+    "chunk_id": "chunk_0156",
+    "chunk_type": "section",
+    "text": "Maximum frequency"
+  },
+  {
+    "section": "High speed / turbo function",
+    "subsection": "High speed / turbo function",
+    "page": 30,
+    "linked_images": [],
+    "chunk_id": "chunk_0157",
+    "chunk_type": "section",
+    "text": "High speed / turbo function"
+  },
+  {
+    "section": "No limit",
+    "subsection": "No limit",
+    "page": 30,
+    "linked_images": [],
+    "chunk_id": "chunk_0158",
+    "chunk_type": "section",
+    "text": "No limit"
+  },
+  {
+    "section": "Silent mode",
+    "subsection": "Silent mode",
+    "page": 30,
+    "linked_images": [],
+    "chunk_id": "chunk_0159",
+    "chunk_type": "section",
+    "text": "Silent mode\n\nFixed at F3\n\nIf users switch on AC by remote controller, the compressor will run at the Fmax frequency for 7\n\nminutes according to the outdoor ambient temp. During the 7 minutes, the frequency limitation is active.\n\n7 minutes later, the compressor running frequency will be controlled as below:\n\n30\n\n1.0ABCDEFGH0.0-1.5IJ"
+  },
+  {
+    "section": "T1-Ts",
+    "subsection": "T1-Ts",
+    "page": 31,
+    "linked_images": [],
+    "chunk_id": "chunk_0160",
+    "chunk_type": "section",
+    "text": "T1-Ts\n\n3.53.02.52.01.51.00.5\n\nWhile the zones of A,B,C... are corresponding to different compressor running frequency."
+  },
+  {
+    "section": "Note:",
+    "subsection": "Note:",
+    "page": 31,
+    "linked_images": [],
+    "chunk_id": "chunk_0161",
+    "chunk_type": "section",
+    "text": "Note:\n\nWhen T1-Ts keeps in the same temp. zone for 3 minutes, the compressor will run as the below rules:"
+  },
+  {
+    "section": "A:Increase the frequency to 3 grade higher until to FREMAX.",
+    "subsection": "A:Increase the frequency to 3 grade higher until to FREMAX.",
+    "page": 31,
+    "linked_images": [],
+    "chunk_id": "chunk_0162",
+    "chunk_type": "section",
+    "text": "A:Increase the frequency to 3 grade higher until to FREMAX.\n\nB~E: Increase the frequency to 2 grade higher until to FREMAX.\n\nF~G: Increase the frequency to 1 grade higher until to FREMAX.\n\nH: Keep the current frequency.\n\n:\n\nI: Decrease the frequency to 1 grade lower until to F1.\n\nJ: Run at F1 for 1h.(if T1-Ts<-2℃, the compressor will stop)\n\nMeanwhile, the compressor running frequency is limited by the current."
+  },
+  {
+    "section": "T4",
+    "subsection": "T4",
+    "page": 31,
+    "linked_images": [],
+    "chunk_id": "chunk_0163",
+    "chunk_type": "section",
+    "text": "T4\n\n50"
+  },
+  {
+    "section": "CoolT4Zone5ICoolT4Zone4ICoolT4Zone3ICoolT4Zone2ICoolT4Zone1I49454441403332",
+    "subsection": "CoolT4Zone5ICoolT4Zone4ICoolT4Zone3ICoolT4Zone2ICoolT4Zone1I49454441403332",
+    "page": 31,
+    "linked_images": [
+      "img_017"
+    ],
+    "chunk_id": "chunk_0164",
+    "chunk_type": "section",
+    "text": "CoolT4Zone5ICoolT4Zone4ICoolT4Zone3ICoolT4Zone2ICoolT4Zone1I49454441403332\n\n31\n\n8.4.2.2 Outdoor fan running rules\n\n2119AC1816D15131210BE"
+  },
+  {
+    "section": "2826EC2523B22201917DACoolingHeating",
+    "subsection": "2826EC2523B22201917DACoolingHeating",
+    "page": 32,
+    "linked_images": [
+      "img_017"
+    ],
+    "chunk_id": "chunk_0165",
+    "chunk_type": "section",
+    "text": "2826EC2523B22201917DACoolingHeating"
+  },
+  {
+    "section": "While A,B,C…means different fan speed of outdoor unit.",
+    "subsection": "While A,B,C…means different fan speed of outdoor unit.",
+    "page": 32,
+    "linked_images": [
+      "img_017"
+    ],
+    "chunk_id": "chunk_0166",
+    "chunk_type": "section",
+    "text": "While A,B,C…means different fan speed of outdoor unit.\n\n8.4.2.3 Indoor fan running rules\n\nIn cooling mode, indoor fan runs all the time and the speed can be selected as high, medium, low, auto\n\nand silent. When the compressor is running, the indoor fan is controlled as below:\n\nThe auto fan acts as below rules:\n\nabcd5.04.02.51.06.0T1-Ts\n\neH(H-L)*0.75+L(H-L)*0.5+L(H-L)*0.25+LL\n\n32"
+  },
+  {
+    "section": "Section 8",
+    "subsection": "8.4.2.4 Condenser temperature protection",
+    "page": 33,
+    "linked_images": [],
+    "chunk_id": "chunk_0167",
+    "chunk_type": "section",
+    "text": "8.4.2.4 Condenser temperature protection\n\n---55℃<T3<60℃, the compressor frequency will decrease to the lower level until to F1 and then runs\n\nat F1.If T3<54℃, the compressor will keep running at the current frequency.\n\n---T3<52℃, the compressor will not limit the frequency and resume to the former frequency.\n\n---T3>60℃ for 5 seconds, the compressor will stop until T3<52℃."
+  },
+  {
+    "section": "Section 8",
+    "subsection": "8.4.2.5 Evaporator temperature protection",
+    "page": 33,
+    "linked_images": [],
+    "chunk_id": "chunk_0168",
+    "chunk_type": "section",
+    "text": "8.4.2.5 Evaporator temperature protection\n\n---T2<0℃, the compressor will stop and restart when T2>=5℃.\n\n---0℃≦T2<4℃, the compressor frequency will be limited and decreased to the lower level\n\n---4℃≤T2≤7℃, the compressor will keep the current frequency.\n\n---T2>7℃, the compressor frequency will not be limited.\n\n33"
+  },
+  {
+    "section": "Section 8",
+    "subsection": "8.4.3 Heating Mode",
+    "page": 34,
+    "linked_images": [],
+    "chunk_id": "chunk_0169",
+    "chunk_type": "section",
+    "text": "8.4.3 Heating Mode"
+  },
+  {
+    "section": "Section 8",
+    "subsection": "8.4.3.1 Compressor running rules",
+    "page": 34,
+    "linked_images": [],
+    "chunk_id": "chunk_0170",
+    "chunk_type": "section",
+    "text": "8.4.3.1 Compressor running rules\n\nThe maximum operation frequency of the compressor after starting submits to the following rule."
+  },
+  {
+    "section": "Fmax=T4FREHEATMAX134T4",
+    "subsection": "Fmax=T4FREHEATMAX134T4",
+    "page": 34,
+    "linked_images": [],
+    "chunk_id": "chunk_0171",
+    "chunk_type": "section",
+    "text": "Fmax=T4FREHEATMAX134T4\n\nOff33282725242221191816171514"
+  },
+  {
+    "section": "121165Fmax=T4FREHEATMAX2Fmax=T4FREHEATMAX3Fmax=T4FREHEATMAX4Fmax=T4FREHEATMAX5Fm",
+    "subsection": "121165Fmax=T4FREHEATMAX2Fmax=T4FREHEATMAX3Fmax=T4FREHEATMAX4Fmax=T4FREHEATMAX5Fm",
+    "page": 34,
+    "linked_images": [],
+    "chunk_id": "chunk_0172",
+    "chunk_type": "section",
+    "text": "121165Fmax=T4FREHEATMAX2Fmax=T4FREHEATMAX3Fmax=T4FREHEATMAX4Fmax=T4FREHEATMAX5Fmax=T4FREHEATMAX6Fmax=T4FREHEATMAX7Fmax=T4FREHEATMAX810-3-4-7-8-11-12-15-16Fmax=T4FREHEATMAX9Fmax=F21Fmax=F22Fmax=F23Fmax=F24Fmax=F25\n\n34\n\nMeanwhile, the maximum frequency is limited by the indoor fan speed."
+  },
+  {
+    "section": "Indoor fan speed",
+    "subsection": "Indoor fan speed",
+    "page": 35,
+    "linked_images": [],
+    "chunk_id": "chunk_0173",
+    "chunk_type": "section",
+    "text": "Indoor fan speed"
+  },
+  {
+    "section": "Maximum frequency",
+    "subsection": "Maximum frequency",
+    "page": 35,
+    "linked_images": [],
+    "chunk_id": "chunk_0174",
+    "chunk_type": "section",
+    "text": "Maximum frequency"
+  },
+  {
+    "section": "High speed/8 degree heating/ turbo function",
+    "subsection": "High speed/8 degree heating/ turbo function",
+    "page": 35,
+    "linked_images": [],
+    "chunk_id": "chunk_0175",
+    "chunk_type": "section",
+    "text": "High speed/8 degree heating/ turbo function"
+  },
+  {
+    "section": "No limit",
+    "subsection": "No limit",
+    "page": 35,
+    "linked_images": [],
+    "chunk_id": "chunk_0176",
+    "chunk_type": "section",
+    "text": "No limit"
+  },
+  {
+    "section": "Medium speed",
+    "subsection": "Medium speed",
+    "page": 35,
+    "linked_images": [],
+    "chunk_id": "chunk_0177",
+    "chunk_type": "section",
+    "text": "Medium speed"
+  },
+  {
+    "section": "FHeatMaxMidFan",
+    "subsection": "FHeatMaxMidFan",
+    "page": 35,
+    "linked_images": [],
+    "chunk_id": "chunk_0178",
+    "chunk_type": "section",
+    "text": "FHeatMaxMidFan"
+  },
+  {
+    "section": "Low speed/sleep mode",
+    "subsection": "Low speed/sleep mode",
+    "page": 35,
+    "linked_images": [],
+    "chunk_id": "chunk_0179",
+    "chunk_type": "section",
+    "text": "Low speed/sleep mode"
+  },
+  {
+    "section": "FHeatMaxLowFan",
+    "subsection": "FHeatMaxLowFan",
+    "page": 35,
+    "linked_images": [],
+    "chunk_id": "chunk_0180",
+    "chunk_type": "section",
+    "text": "FHeatMaxLowFan"
+  },
+  {
+    "section": "Silent mode",
+    "subsection": "Silent mode",
+    "page": 35,
+    "linked_images": [],
+    "chunk_id": "chunk_0181",
+    "chunk_type": "section",
+    "text": "Silent mode\n\nFixed at F3\n\nIf users switch on AC by remote controller, the compressor will run at the Fmax frequency for 7\n\nminutes according to outdoor ambient temp. During the 7 minutes, the frequency limitation is active.\n\n7 minutes later, the compressor running frequency will be controlled as below:\n\n+5.0+4.5+3.5+3.0+2.5+2.0+1.5\n\n+1.0IG\n\n+4.0HJ"
+  },
+  {
+    "section": "FEDCBA+0.5",
+    "subsection": "FEDCBA+0.5",
+    "page": 35,
+    "linked_images": [],
+    "chunk_id": "chunk_0182",
+    "chunk_type": "section",
+    "text": "FEDCBA+0.5"
+  },
+  {
+    "section": "T1-Ts+ΔT",
+    "subsection": "T1-Ts+ΔT",
+    "page": 35,
+    "linked_images": [],
+    "chunk_id": "chunk_0183",
+    "chunk_type": "section",
+    "text": "T1-Ts+ΔT\n\nWhile the zones of A,B,C... are corresponding to different compressor running frequency."
+  },
+  {
+    "section": "Note:",
+    "subsection": "Note:",
+    "page": 35,
+    "linked_images": [],
+    "chunk_id": "chunk_0184",
+    "chunk_type": "section",
+    "text": "Note:\n\nWhen T1-Ts keeps in the same temp. zone for 3 minutes, the compressor will run as the below rules:"
+  },
+  {
+    "section": "A: Increase the frequency to 3 grade higher until to FREMAX.",
+    "subsection": "A: Increase the frequency to 3 grade higher until to FREMAX.",
+    "page": 35,
+    "linked_images": [],
+    "chunk_id": "chunk_0185",
+    "chunk_type": "section",
+    "text": "A: Increase the frequency to 3 grade higher until to FREMAX.\n\nB~E: Increase the frequency to 2 grade higher until to FREMAX.\n\nF~G: Increase the frequency to 1 grade higher until to FREMAX.\n\nH: Keep the current frequency.\n\nI: Decrease the frequency to the 1 grade lower until to F1.\n\nJ: Run at F1 for 1h.(if T1-Ts-ΔT >6℃, the compressor will stop)\n\n35\n\nMeanwhile, the compressor running frequency is limited by the current.\n\n15"
+  },
+  {
+    "section": "ΔT=0℃ as default.",
+    "subsection": "ΔT=0℃ as default.",
+    "page": 35,
+    "linked_images": [],
+    "chunk_id": "chunk_0186",
+    "chunk_type": "troubleshooting",
+    "text": "ΔT=0℃ as default."
+  },
+  {
+    "section": "HeatT4Zone4I14109.06.05.0HeatT4Zone3IHeatT4Zone2IHeatT4Zone1I",
+    "subsection": "HeatT4Zone4I14109.06.05.0HeatT4Zone3IHeatT4Zone2IHeatT4Zone1I",
+    "page": 36,
+    "linked_images": [],
+    "chunk_id": "chunk_0187",
+    "chunk_type": "section",
+    "text": "HeatT4Zone4I14109.06.05.0HeatT4Zone3IHeatT4Zone2IHeatT4Zone1I"
+  },
+  {
+    "section": "T4",
+    "subsection": "T4",
+    "page": 36,
+    "linked_images": [],
+    "chunk_id": "chunk_0188",
+    "chunk_type": "section",
+    "text": "T4\n\n8.4.3.2 Outdoor fan running rules"
+  },
+  {
+    "section": "Heating",
+    "subsection": "Heating",
+    "page": 36,
+    "linked_images": [],
+    "chunk_id": "chunk_0189",
+    "chunk_type": "section",
+    "text": "Heating\n\n2119AC1816D15131210BE\n\n8.4.3.3 Indoor fan running rules\n\nIn heating mode, indoor fan can be selected as high, medium, low, auto and silent. The anti-cold- wind\n\nfunction is preferential. The running rules of anti-cold-wind function depend on both T1 and T2 that is"
+  },
+  {
+    "section": "more comfortable control.",
+    "subsection": "more comfortable control.",
+    "page": 36,
+    "linked_images": [
+      "img_018"
+    ],
+    "chunk_id": "chunk_0190",
+    "chunk_type": "section",
+    "text": "more comfortable control.\n\nWhen the compressor is running, the indoor fan is controlled as below:\n\n36\n\nIf the compressor stops caused by the room temperature rising, the indoor fan will be forced to run 127\n\nseconds with breeze. During this period, the anti-cold-wind is disabled.\n\nAuto fan action in heating mode:\n\n1.0-2.0-3.0-4.00.0T1-Ts+ΔT L(H+-L)*0.4+L(H+-L)*0.6+L\n\n5.0-6.0-6.5H+(H+-L)*0.8+L (H+-L)*0.6+L(H+-L)*0.2+L\n\n37"
+  },
+  {
+    "section": "Section 8",
+    "subsection": "8.4.3.4 Defrosting mode",
+    "page": 38,
+    "linked_images": [],
+    "chunk_id": "chunk_0191",
+    "chunk_type": "section",
+    "text": "8.4.3.4 Defrosting mode"
+  },
+  {
+    "section": "Condition of defrosting:",
+    "subsection": "Condition of defrosting:",
+    "page": 38,
+    "linked_images": [],
+    "chunk_id": "chunk_0192",
+    "chunk_type": "section",
+    "text": "Condition of defrosting:\n\nIf any one of the following items is satisfied, AC will enter the defrosting mode.\n\nAfter the compressor starts up and keeps running, mark the minimum value of T3 from the 10th"
+  },
+  {
+    "section": "minutes to 15th minutes as T30.",
+    "subsection": "minutes to 15th minutes as T30.",
+    "page": 38,
+    "linked_images": [],
+    "chunk_id": "chunk_0193",
+    "chunk_type": "section",
+    "text": "minutes to 15th minutes as T30.\n\n1)If the compressor cumulate running time is up to 29 minutes and T3< TCDI1, T3＋\n\nT30SUBT3ONE≦T30.\n\n2)If the compressor cumulate running time is up to 35 minutes and T3< TCDI2, T3＋\n\nT30SUBT3TWO≦T30.\n\n3)If the compressor cumulate running time is up to 29 minutes and T3< TCDI3 for 3 minutes.\n\n4)If the compressor cumulate running time is up to 120 minutes and T3<-15℃.\n\nCondition of ending defrosting:\n\nIf any one of the following items is satisfied, the defrosting will finish and the machine will turn to"
+  },
+  {
+    "section": "normal heating mode.",
+    "subsection": "normal heating mode.",
+    "page": 38,
+    "linked_images": [],
+    "chunk_id": "chunk_0194",
+    "chunk_type": "section",
+    "text": "normal heating mode.\n\n----T3 rises to be higher than TCDE1℃.\n\n----T3 keeps to be higher than TCDE2℃ for 80 seconds.\n\n----The machine has run for 10 minutes in defrosting mode."
+  },
+  {
+    "section": "Section 8",
+    "subsection": "8.4.3.5 Evaporator coil temperature protection",
+    "page": 38,
+    "linked_images": [],
+    "chunk_id": "chunk_0195",
+    "chunk_type": "section",
+    "text": "8.4.3.5 Evaporator coil temperature protection"
+  },
+  {
+    "section": "TEstop",
+    "subsection": "TEstop",
+    "page": 38,
+    "linked_images": [],
+    "chunk_id": "chunk_0196",
+    "chunk_type": "section",
+    "text": "TEstop"
+  },
+  {
+    "section": "ResumeOffDecreaseTEdownTEnormHold",
+    "subsection": "ResumeOffDecreaseTEdownTEnormHold",
+    "page": 38,
+    "linked_images": [],
+    "chunk_id": "chunk_0197",
+    "chunk_type": "section",
+    "text": "ResumeOffDecreaseTEdownTEnormHold"
+  },
+  {
+    "section": "T2",
+    "subsection": "T2",
+    "page": 38,
+    "linked_images": [],
+    "chunk_id": "chunk_0198",
+    "chunk_type": "section",
+    "text": "T2"
+  },
+  {
+    "section": "Off: Compressor stops.",
+    "subsection": "Off: Compressor stops.",
+    "page": 38,
+    "linked_images": [],
+    "chunk_id": "chunk_0199",
+    "chunk_type": "section",
+    "text": "Off: Compressor stops."
+  },
+  {
+    "section": "Decrease: Decrease the running frequency to the lower level.",
+    "subsection": "Decrease: Decrease the running frequency to the lower level.",
+    "page": 38,
+    "linked_images": [],
+    "chunk_id": "chunk_0200",
+    "chunk_type": "section",
+    "text": "Decrease: Decrease the running frequency to the lower level.\n\nHold: Keep the current frequency."
+  },
+  {
+    "section": "Resume: No limitation for frequency.",
+    "subsection": "Resume: No limitation for frequency.",
+    "page": 38,
+    "linked_images": [],
+    "chunk_id": "chunk_0201",
+    "chunk_type": "section",
+    "text": "Resume: No limitation for frequency."
+  },
+  {
+    "section": "Section 8",
+    "subsection": "8.4.4 Auto-mode",
+    "page": 38,
+    "linked_images": [],
+    "chunk_id": "chunk_0202",
+    "chunk_type": "section",
+    "text": "8.4.4 Auto-mode\n\nThis mode can be chosen with remote controller and the setting temperature can be changed between\n\n17~30℃.\n\n38\n\nIn auto mode, the machine will choose cooling, heating or fan-only mode according to ΔT (ΔT =T1-Ts)."
+  },
+  {
+    "section": "ΔT=T1-Ts",
+    "subsection": "ΔT=T1-Ts",
+    "page": 39,
+    "linked_images": [],
+    "chunk_id": "chunk_0203",
+    "chunk_type": "section",
+    "text": "ΔT=T1-Ts\n\nRunning mode\n\nΔT＞1℃"
+  },
+  {
+    "section": "Cooling",
+    "subsection": "Cooling",
+    "page": 39,
+    "linked_images": [],
+    "chunk_id": "chunk_0204",
+    "chunk_type": "section",
+    "text": "Cooling\n\n1<ΔT≤1℃"
+  },
+  {
+    "section": "Fan-only",
+    "subsection": "Fan-only",
+    "page": 39,
+    "linked_images": [],
+    "chunk_id": "chunk_0205",
+    "chunk_type": "section",
+    "text": "Fan-only\n\nΔT≤-1℃"
+  },
+  {
+    "section": "Heating",
+    "subsection": "Heating",
+    "page": 39,
+    "linked_images": [],
+    "chunk_id": "chunk_0206",
+    "chunk_type": "section",
+    "text": "Heating\n\nIndoor fan will run at auto fan of the relevant mode.\n\nThe louver operates same as in relevant mode.\n\nIf the machine switches mode between heating and cooling, the compressor will keep stopping for 15\n\nminutes and then choose mode according to T1-Ts.\n\nIf the setting temperature is modified, the machine will choose running function again."
+  },
+  {
+    "section": "Section 8",
+    "subsection": "8.4.5 Drying mode",
+    "page": 39,
+    "linked_images": [],
+    "chunk_id": "chunk_0207",
+    "chunk_type": "section",
+    "text": "8.4.5 Drying mode\n\n8.4.5.1 Indoor fan speed is fixed at breeze and can’t be changed. The louver angle is the same as\n\nin cooling mode."
+  },
+  {
+    "section": "Section 8",
+    "subsection": "8.4.5.2 Compressor running rules",
+    "page": 39,
+    "linked_images": [],
+    "chunk_id": "chunk_0208",
+    "chunk_type": "section",
+    "text": "8.4.5.2 Compressor running rules\n\nF7F5F3F12.50.50.0"
+  },
+  {
+    "section": "T1-Ts",
+    "subsection": "T1-Ts",
+    "page": 39,
+    "linked_images": [],
+    "chunk_id": "chunk_0209",
+    "chunk_type": "section",
+    "text": "T1-Ts\n\n2.01.51.0"
+  },
+  {
+    "section": "Section 8",
+    "subsection": "8.4.5.3 Low indoor room temperature protection",
+    "page": 39,
+    "linked_images": [],
+    "chunk_id": "chunk_0210",
+    "chunk_type": "section",
+    "text": "8.4.5.3 Low indoor room temperature protection\n\nIn drying mode, if room temperature is lower than 10℃, the compressor will stop and not resume until\n\nroom temperature exceeds 12℃.\n\n8.4.5.4 Evaporator anti-freezing protection, condenser high temperature protection and outdoor unit\n\nfrequency limit are active and the same as that in cooling mode.\n\n8.4.5.5 The outdoor fan operates the same as in cooling mode."
+  },
+  {
+    "section": "Section 8",
+    "subsection": "8.4.6 Forced operation function",
+    "page": 39,
+    "linked_images": [],
+    "chunk_id": "chunk_0211",
+    "chunk_type": "section",
+    "text": "8.4.6 Forced operation function\n\n8.4.6.1 Enter forced operation function:\n\nWhen the machine is off, pressing the touch button will carry the machine to forced auto mode. If\n\n39\n\npressing the button once again within 5 seconds, the machine will turn into forced cooling mode.\n\nIn forced auto, forced cooling or any other operation mode, pressing touch button will turn off the"
+  },
+  {
+    "section": "machine.",
+    "subsection": "machine.",
+    "page": 40,
+    "linked_images": [],
+    "chunk_id": "chunk_0212",
+    "chunk_type": "section",
+    "text": "machine.\n\n8.4.6.2 In forced operation mode, all general protections and remote control are available."
+  },
+  {
+    "section": "Section 8",
+    "subsection": "8.4.6.3 Operation rules:",
+    "page": 40,
+    "linked_images": [],
+    "chunk_id": "chunk_0213",
+    "chunk_type": "section",
+    "text": "8.4.6.3 Operation rules:\n\nForced cooling mode:\n\nThe compressor runs at F2 frequency and indoor fan runs as breeze. After running for 30 minutes. the\n\nmachine will turn to auto mode as 24℃ setting temperature."
+  },
+  {
+    "section": "Forced auto mode:",
+    "subsection": "Forced auto mode:",
+    "page": 40,
+    "linked_images": [],
+    "chunk_id": "chunk_0214",
+    "chunk_type": "section",
+    "text": "Forced auto mode:\n\nThe action of forced auto mode is the same as normal auto mode with 24℃ setting temperature."
+  },
+  {
+    "section": "Section 8",
+    "subsection": "8.4.7 Timer function",
+    "page": 40,
+    "linked_images": [],
+    "chunk_id": "chunk_0215",
+    "chunk_type": "section",
+    "text": "8.4.7 Timer function\n\n8.4.7.1 Timing range is 24 hours.\n\n8.4.7.2 Timer on. The machine will turn on automatically when reaching the setting time.\n\n8.4.7.3 Timer off. The machine will turn off automatically when reaching the setting time.\n\n8.4.7.4 Timer on/off. The machine will turn on automatically when reaching the setting “on” time, and\n\nthen turn off automatically when reaching the setting “off” time.\n\n8.4.7.5 Timer off/on. The machine will turn off automatically when reaching the setting “off” time, and\n\nthen turn on automatically when reaching the setting “on” time.\n\n8.4.7.6 The timer function will not change the AC current operation mode. Suppose AC is off now, it will\n\nnot start up firstly after setting the “timer off” function. And when reaching the setting time, the timer\n\nLED will be off and the AC running mode has not been changed.\n\n8.4.7.7 The setting time is relative time."
+  },
+  {
+    "section": "Section 8",
+    "subsection": "8.4.8 Sleep function mode",
+    "page": 40,
+    "linked_images": [],
+    "chunk_id": "chunk_0216",
+    "chunk_type": "section",
+    "text": "8.4.8 Sleep function mode\n\n8.4.8.1 Operation time in sleep mode is 7 hours. After 7 hours the AC quits this mode and turns off.\n\n8.4.8.2. Operation process in sleep mode is as follow:\n\nWhen cooling, the setting temperature rises 1℃ (be lower than 30℃) every one hour, 2 hours later the\n\nsetting temperature stops rising and indoor fan is fixed as low speed.\n\nWhen heating, the setting temperature decreases 1℃ (be higher than 17℃) every one hour, 2 hours\n\nlater the setting temperature stops rising and indoor fan is fixed as low speed. (Anti-cold wind function\n\nhas the priority)\n\n8.4.8.3 Timer setting is available\n\n40\n\n8.4.8.4 When user uses timer off function in sleep mode (or sleep function in timer off mode), if the\n\ntiming is less than 7 hours, sleep function will be cancelled when reaching the setting time. If the timing\n\nis more than 7 hours, the machine will not stop until reaches the setting time in sleep mode."
+  },
+  {
+    "section": "Section 8",
+    "subsection": "8.4.9 Auto-Restart function",
+    "page": 41,
+    "linked_images": [],
+    "chunk_id": "chunk_0217",
+    "chunk_type": "section",
+    "text": "8.4.9 Auto-Restart function\n\nThe indoor unit is equipped with auto-restart function, which is carried out through an auto-restart\n\nmodule. In case of a sudden power failure, the module memorizes the setting conditions before the\n\npower failure. The unit will resume the previous operation setting (not including swing function)"
+  },
+  {
+    "section": "automatically after 3 minutes when power returns.",
+    "subsection": "automatically after 3 minutes when power returns.",
+    "page": 41,
+    "linked_images": [],
+    "chunk_id": "chunk_0218",
+    "chunk_type": "section",
+    "text": "automatically after 3 minutes when power returns.\n\nIf the memorization condition is forced cooling mode, the unit will run in cooling mode for 30 minutes\n\nand turn to auto mode as 24℃ setting temp.\n\nIf AC is off before power off and AC is required to start up now, the compressor will have 1 minute\n\ndelay when power on. Other conditions, the compressor will have 3 minutes delay when restarts.\n\n8.4.10 8℃ Heating\n\nIn heating operation, the preset temperature of the air conditioner can be as lower as 8℃, which keeps\n\nthe room temperature steady at 8℃ and prevents household things freezing when the house is"
+  },
+  {
+    "section": "unoccupied for a long time in severe cold weather.",
+    "subsection": "unoccupied for a long time in severe cold weather.",
+    "page": 41,
+    "linked_images": [],
+    "chunk_id": "chunk_0219",
+    "chunk_type": "section",
+    "text": "unoccupied for a long time in severe cold weather."
+  },
+  {
+    "section": "Section 8",
+    "subsection": "8.4.11 Frequency limitation protection",
+    "page": 41,
+    "linked_images": [],
+    "chunk_id": "chunk_0220",
+    "chunk_type": "section",
+    "text": "8.4.11 Frequency limitation protection"
+  },
+  {
+    "section": "VVOLT_RST1_ADDNormalVOLT_LIM_FREQ1_ADD",
+    "subsection": "VVOLT_RST1_ADDNormalVOLT_LIM_FREQ1_ADD",
+    "page": 41,
+    "linked_images": [],
+    "chunk_id": "chunk_0221",
+    "chunk_type": "section",
+    "text": "VVOLT_RST1_ADDNormalVOLT_LIM_FREQ1_ADD"
+  },
+  {
+    "section": "VOLT_LIM1_ADDVOLT_RST2_ADDVOLT_LIM2_ADDVOLT_LIM_FREQ2_ADD",
+    "subsection": "VOLT_LIM1_ADDVOLT_RST2_ADDVOLT_LIM2_ADDVOLT_LIM_FREQ2_ADD",
+    "page": 41,
+    "linked_images": [],
+    "chunk_id": "chunk_0222",
+    "chunk_type": "section",
+    "text": "VOLT_LIM1_ADDVOLT_RST2_ADDVOLT_LIM2_ADDVOLT_LIM_FREQ2_ADD\n\nThe PCB will detect the voltage of power supply and adjust the compressor running frequency to\n\nprotect the system.\n\nIn the first 10 seconds after power on, this protection is inactive.\n\nWhen this protection happens, it will last 3 minutes and then the PCB will detect the power supply"
+  },
+  {
+    "section": "voltage again.",
+    "subsection": "voltage again.",
+    "page": 41,
+    "linked_images": [],
+    "chunk_id": "chunk_0223",
+    "chunk_type": "section",
+    "text": "voltage again.\n\n41\n\n9. Troubleshooting"
+  },
+  {
+    "section": "Section 9",
+    "subsection": "9.1 Indoor Unit Error Display",
+    "page": 42,
+    "linked_images": [],
+    "chunk_id": "chunk_0224",
+    "chunk_type": "section",
+    "text": "9.1 Indoor Unit Error Display"
+  },
+  {
+    "section": "Operation lamp",
+    "subsection": "Operation lamp",
+    "page": 42,
+    "linked_images": [],
+    "chunk_id": "chunk_0225",
+    "chunk_type": "section",
+    "text": "Operation lamp"
+  },
+  {
+    "section": "Timer lamp Display LED STATUS",
+    "subsection": "Timer lamp Display LED STATUS",
+    "page": 42,
+    "linked_images": [],
+    "chunk_id": "chunk_0226",
+    "chunk_type": "section",
+    "text": "Timer lamp Display LED STATUS"
+  },
+  {
+    "section": "☆ 1 time",
+    "subsection": "☆ 1 time",
+    "page": 42,
+    "linked_images": [],
+    "chunk_id": "chunk_0227",
+    "chunk_type": "section",
+    "text": "☆ 1 time"
+  },
+  {
+    "section": "X",
+    "subsection": "X",
+    "page": 42,
+    "linked_images": [],
+    "chunk_id": "chunk_0228",
+    "chunk_type": "section",
+    "text": "X"
+  },
+  {
+    "section": "E0",
+    "subsection": "E0",
+    "page": 42,
+    "linked_images": [],
+    "chunk_id": "chunk_0229",
+    "chunk_type": "section",
+    "text": "E0"
+  },
+  {
+    "section": "Indoor unit EEPROM parameter error",
+    "subsection": "Indoor unit EEPROM parameter error",
+    "page": 42,
+    "linked_images": [],
+    "chunk_id": "chunk_0230",
+    "chunk_type": "section",
+    "text": "Indoor unit EEPROM parameter error"
+  },
+  {
+    "section": "☆ 2 times",
+    "subsection": "☆ 2 times",
+    "page": 42,
+    "linked_images": [],
+    "chunk_id": "chunk_0231",
+    "chunk_type": "section",
+    "text": "☆ 2 times"
+  },
+  {
+    "section": "X",
+    "subsection": "X",
+    "page": 42,
+    "linked_images": [],
+    "chunk_id": "chunk_0232",
+    "chunk_type": "section",
+    "text": "X"
+  },
+  {
+    "section": "E1",
+    "subsection": "E1",
+    "page": 42,
+    "linked_images": [],
+    "chunk_id": "chunk_0233",
+    "chunk_type": "section",
+    "text": "E1"
+  },
+  {
+    "section": "Indoor / outdoor units communication error",
+    "subsection": "Indoor / outdoor units communication error",
+    "page": 42,
+    "linked_images": [],
+    "chunk_id": "chunk_0234",
+    "chunk_type": "section",
+    "text": "Indoor / outdoor units communication error"
+  },
+  {
+    "section": "☆ 3 times",
+    "subsection": "☆ 3 times",
+    "page": 42,
+    "linked_images": [],
+    "chunk_id": "chunk_0235",
+    "chunk_type": "section",
+    "text": "☆ 3 times"
+  },
+  {
+    "section": "X",
+    "subsection": "X",
+    "page": 42,
+    "linked_images": [],
+    "chunk_id": "chunk_0236",
+    "chunk_type": "section",
+    "text": "X"
+  },
+  {
+    "section": "E2",
+    "subsection": "E2",
+    "page": 42,
+    "linked_images": [],
+    "chunk_id": "chunk_0237",
+    "chunk_type": "section",
+    "text": "E2\n\nZero crossing signal detection error"
+  },
+  {
+    "section": "☆ 4 times",
+    "subsection": "☆ 4 times",
+    "page": 42,
+    "linked_images": [],
+    "chunk_id": "chunk_0238",
+    "chunk_type": "section",
+    "text": "☆ 4 times"
+  },
+  {
+    "section": "X",
+    "subsection": "X",
+    "page": 42,
+    "linked_images": [],
+    "chunk_id": "chunk_0239",
+    "chunk_type": "section",
+    "text": "X"
+  },
+  {
+    "section": "E3",
+    "subsection": "E3",
+    "page": 42,
+    "linked_images": [],
+    "chunk_id": "chunk_0240",
+    "chunk_type": "section",
+    "text": "E3\n\nIndoor fan speed has been out of control"
+  },
+  {
+    "section": "☆ 5 times",
+    "subsection": "☆ 5 times",
+    "page": 42,
+    "linked_images": [],
+    "chunk_id": "chunk_0241",
+    "chunk_type": "section",
+    "text": "☆ 5 times"
+  },
+  {
+    "section": "X",
+    "subsection": "X",
+    "page": 42,
+    "linked_images": [],
+    "chunk_id": "chunk_0242",
+    "chunk_type": "section",
+    "text": "X"
+  },
+  {
+    "section": "E4",
+    "subsection": "E4",
+    "page": 42,
+    "linked_images": [],
+    "chunk_id": "chunk_0243",
+    "chunk_type": "section",
+    "text": "E4"
+  },
+  {
+    "section": "Open circuit or short circuit of indoor room temperature T1",
+    "subsection": "Open circuit or short circuit of indoor room temperature T1",
+    "page": 42,
+    "linked_images": [],
+    "chunk_id": "chunk_0244",
+    "chunk_type": "section",
+    "text": "Open circuit or short circuit of indoor room temperature T1"
+  },
+  {
+    "section": "sensor",
+    "subsection": "sensor",
+    "page": 42,
+    "linked_images": [],
+    "chunk_id": "chunk_0245",
+    "chunk_type": "section",
+    "text": "sensor"
+  },
+  {
+    "section": "☆ 6 times",
+    "subsection": "☆ 6 times",
+    "page": 42,
+    "linked_images": [],
+    "chunk_id": "chunk_0246",
+    "chunk_type": "section",
+    "text": "☆ 6 times"
+  },
+  {
+    "section": "X",
+    "subsection": "X",
+    "page": 42,
+    "linked_images": [],
+    "chunk_id": "chunk_0247",
+    "chunk_type": "section",
+    "text": "X"
+  },
+  {
+    "section": "E5",
+    "subsection": "E5",
+    "page": 42,
+    "linked_images": [],
+    "chunk_id": "chunk_0248",
+    "chunk_type": "section",
+    "text": "E5"
+  },
+  {
+    "section": "Open circuit or short circuit of evaporator coil temperature T2",
+    "subsection": "Open circuit or short circuit of evaporator coil temperature T2",
+    "page": 42,
+    "linked_images": [],
+    "chunk_id": "chunk_0249",
+    "chunk_type": "section",
+    "text": "Open circuit or short circuit of evaporator coil temperature T2"
+  },
+  {
+    "section": "sensor",
+    "subsection": "sensor",
+    "page": 42,
+    "linked_images": [],
+    "chunk_id": "chunk_0250",
+    "chunk_type": "section",
+    "text": "sensor"
+  },
+  {
+    "section": "☆ 7 times",
+    "subsection": "☆ 7 times",
+    "page": 42,
+    "linked_images": [],
+    "chunk_id": "chunk_0251",
+    "chunk_type": "section",
+    "text": "☆ 7 times"
+  },
+  {
+    "section": "X",
+    "subsection": "X",
+    "page": 42,
+    "linked_images": [],
+    "chunk_id": "chunk_0252",
+    "chunk_type": "section",
+    "text": "X"
+  },
+  {
+    "section": "EC",
+    "subsection": "EC",
+    "page": 42,
+    "linked_images": [],
+    "chunk_id": "chunk_0253",
+    "chunk_type": "section",
+    "text": "EC"
+  },
+  {
+    "section": "Refrigerant Leakage Detection",
+    "subsection": "Refrigerant Leakage Detection",
+    "page": 42,
+    "linked_images": [],
+    "chunk_id": "chunk_0254",
+    "chunk_type": "section",
+    "text": "Refrigerant Leakage Detection"
+  },
+  {
+    "section": "☆ 1 time",
+    "subsection": "☆ 1 time",
+    "page": 42,
+    "linked_images": [],
+    "chunk_id": "chunk_0255",
+    "chunk_type": "section",
+    "text": "☆ 1 time"
+  },
+  {
+    "section": "O",
+    "subsection": "O",
+    "page": 42,
+    "linked_images": [],
+    "chunk_id": "chunk_0256",
+    "chunk_type": "section",
+    "text": "O"
+  },
+  {
+    "section": "E0",
+    "subsection": "E0",
+    "page": 42,
+    "linked_images": [],
+    "chunk_id": "chunk_0257",
+    "chunk_type": "section",
+    "text": "E0"
+  },
+  {
+    "section": "Current overload protection",
+    "subsection": "Current overload protection",
+    "page": 42,
+    "linked_images": [],
+    "chunk_id": "chunk_0258",
+    "chunk_type": "section",
+    "text": "Current overload protection"
+  },
+  {
+    "section": "☆ 2 times",
+    "subsection": "☆ 2 times",
+    "page": 42,
+    "linked_images": [],
+    "chunk_id": "chunk_0259",
+    "chunk_type": "section",
+    "text": "☆ 2 times"
+  },
+  {
+    "section": "O",
+    "subsection": "O",
+    "page": 42,
+    "linked_images": [],
+    "chunk_id": "chunk_0260",
+    "chunk_type": "section",
+    "text": "O"
+  },
+  {
+    "section": "F1",
+    "subsection": "F1",
+    "page": 42,
+    "linked_images": [],
+    "chunk_id": "chunk_0261",
+    "chunk_type": "section",
+    "text": "F1"
+  },
+  {
+    "section": "Open circuit or short circuit of outdoor ambient T4 temperature",
+    "subsection": "Open circuit or short circuit of outdoor ambient T4 temperature",
+    "page": 42,
+    "linked_images": [],
+    "chunk_id": "chunk_0262",
+    "chunk_type": "section",
+    "text": "Open circuit or short circuit of outdoor ambient T4 temperature"
+  },
+  {
+    "section": "sensor",
+    "subsection": "sensor",
+    "page": 42,
+    "linked_images": [],
+    "chunk_id": "chunk_0263",
+    "chunk_type": "section",
+    "text": "sensor"
+  },
+  {
+    "section": "☆ 3 times",
+    "subsection": "☆ 3 times",
+    "page": 42,
+    "linked_images": [],
+    "chunk_id": "chunk_0264",
+    "chunk_type": "section",
+    "text": "☆ 3 times"
+  },
+  {
+    "section": "O",
+    "subsection": "O",
+    "page": 42,
+    "linked_images": [],
+    "chunk_id": "chunk_0265",
+    "chunk_type": "section",
+    "text": "O"
+  },
+  {
+    "section": "F2",
+    "subsection": "F2",
+    "page": 42,
+    "linked_images": [],
+    "chunk_id": "chunk_0266",
+    "chunk_type": "section",
+    "text": "F2"
+  },
+  {
+    "section": "Open circuit or short circuit of condenser coil temperature T3",
+    "subsection": "Open circuit or short circuit of condenser coil temperature T3",
+    "page": 42,
+    "linked_images": [],
+    "chunk_id": "chunk_0267",
+    "chunk_type": "section",
+    "text": "Open circuit or short circuit of condenser coil temperature T3"
+  },
+  {
+    "section": "sensor",
+    "subsection": "sensor",
+    "page": 42,
+    "linked_images": [],
+    "chunk_id": "chunk_0268",
+    "chunk_type": "section",
+    "text": "sensor"
+  },
+  {
+    "section": "☆ 4 times",
+    "subsection": "☆ 4 times",
+    "page": 42,
+    "linked_images": [],
+    "chunk_id": "chunk_0269",
+    "chunk_type": "section",
+    "text": "☆ 4 times"
+  },
+  {
+    "section": "O",
+    "subsection": "O",
+    "page": 42,
+    "linked_images": [],
+    "chunk_id": "chunk_0270",
+    "chunk_type": "section",
+    "text": "O"
+  },
+  {
+    "section": "F3",
+    "subsection": "F3",
+    "page": 42,
+    "linked_images": [],
+    "chunk_id": "chunk_0271",
+    "chunk_type": "section",
+    "text": "F3"
+  },
+  {
+    "section": "Open circuit or short circuit of compressor discharge T5",
+    "subsection": "Open circuit or short circuit of compressor discharge T5",
+    "page": 42,
+    "linked_images": [],
+    "chunk_id": "chunk_0272",
+    "chunk_type": "section",
+    "text": "Open circuit or short circuit of compressor discharge T5"
+  },
+  {
+    "section": "temperature sensor",
+    "subsection": "temperature sensor",
+    "page": 42,
+    "linked_images": [],
+    "chunk_id": "chunk_0273",
+    "chunk_type": "section",
+    "text": "temperature sensor"
+  },
+  {
+    "section": "☆ 5 times",
+    "subsection": "☆ 5 times",
+    "page": 42,
+    "linked_images": [],
+    "chunk_id": "chunk_0274",
+    "chunk_type": "section",
+    "text": "☆ 5 times"
+  },
+  {
+    "section": "O",
+    "subsection": "O",
+    "page": 42,
+    "linked_images": [],
+    "chunk_id": "chunk_0275",
+    "chunk_type": "section",
+    "text": "O"
+  },
+  {
+    "section": "F4",
+    "subsection": "F4",
+    "page": 42,
+    "linked_images": [],
+    "chunk_id": "chunk_0276",
+    "chunk_type": "section",
+    "text": "F4"
+  },
+  {
+    "section": "Outdoor unit EEPROM parameter error",
+    "subsection": "Outdoor unit EEPROM parameter error",
+    "page": 42,
+    "linked_images": [],
+    "chunk_id": "chunk_0277",
+    "chunk_type": "section",
+    "text": "Outdoor unit EEPROM parameter error"
+  },
+  {
+    "section": "☆ 6 times",
+    "subsection": "☆ 6 times",
+    "page": 42,
+    "linked_images": [],
+    "chunk_id": "chunk_0278",
+    "chunk_type": "section",
+    "text": "☆ 6 times"
+  },
+  {
+    "section": "O",
+    "subsection": "O",
+    "page": 42,
+    "linked_images": [],
+    "chunk_id": "chunk_0279",
+    "chunk_type": "section",
+    "text": "O"
+  },
+  {
+    "section": "F5",
+    "subsection": "F5",
+    "page": 42,
+    "linked_images": [],
+    "chunk_id": "chunk_0280",
+    "chunk_type": "section",
+    "text": "F5\n\nOutdoor fan speed has been out of control"
+  },
+  {
+    "section": "☆ 1 times",
+    "subsection": "☆ 1 times",
+    "page": 42,
+    "linked_images": [],
+    "chunk_id": "chunk_0281",
+    "chunk_type": "section",
+    "text": "☆ 1 times\n\n☆"
+  },
+  {
+    "section": "P0",
+    "subsection": "P0",
+    "page": 42,
+    "linked_images": [],
+    "chunk_id": "chunk_0282",
+    "chunk_type": "section",
+    "text": "P0"
+  },
+  {
+    "section": "IPM malfunction or IGBT over-strong current protection",
+    "subsection": "IPM malfunction or IGBT over-strong current protection",
+    "page": 42,
+    "linked_images": [],
+    "chunk_id": "chunk_0283",
+    "chunk_type": "section",
+    "text": "IPM malfunction or IGBT over-strong current protection"
+  },
+  {
+    "section": "☆ 2 times",
+    "subsection": "☆ 2 times",
+    "page": 42,
+    "linked_images": [],
+    "chunk_id": "chunk_0284",
+    "chunk_type": "section",
+    "text": "☆ 2 times\n\n☆"
+  },
+  {
+    "section": "P1",
+    "subsection": "P1",
+    "page": 42,
+    "linked_images": [],
+    "chunk_id": "chunk_0285",
+    "chunk_type": "section",
+    "text": "P1"
+  },
+  {
+    "section": "Over voltage or over low voltage protection",
+    "subsection": "Over voltage or over low voltage protection",
+    "page": 42,
+    "linked_images": [],
+    "chunk_id": "chunk_0286",
+    "chunk_type": "section",
+    "text": "Over voltage or over low voltage protection"
+  },
+  {
+    "section": "☆ 3 times",
+    "subsection": "☆ 3 times",
+    "page": 42,
+    "linked_images": [],
+    "chunk_id": "chunk_0287",
+    "chunk_type": "section",
+    "text": "☆ 3 times\n\n☆"
+  },
+  {
+    "section": "P2",
+    "subsection": "P2",
+    "page": 42,
+    "linked_images": [],
+    "chunk_id": "chunk_0288",
+    "chunk_type": "section",
+    "text": "P2"
+  },
+  {
+    "section": "High temperature protection of compressor top diagnosis and",
+    "subsection": "High temperature protection of compressor top diagnosis and",
+    "page": 42,
+    "linked_images": [],
+    "chunk_id": "chunk_0289",
+    "chunk_type": "section",
+    "text": "High temperature protection of compressor top diagnosis and"
+  },
+  {
+    "section": "solution",
+    "subsection": "solution",
+    "page": 42,
+    "linked_images": [],
+    "chunk_id": "chunk_0290",
+    "chunk_type": "section",
+    "text": "solution"
+  },
+  {
+    "section": "☆ 5 times",
+    "subsection": "☆ 5 times",
+    "page": 42,
+    "linked_images": [],
+    "chunk_id": "chunk_0291",
+    "chunk_type": "section",
+    "text": "☆ 5 times\n\n☆"
+  },
+  {
+    "section": "P4",
+    "subsection": "P4",
+    "page": 42,
+    "linked_images": [],
+    "chunk_id": "chunk_0292",
+    "chunk_type": "section",
+    "text": "P4"
+  },
+  {
+    "section": "Inverter compressor drive error",
+    "subsection": "Inverter compressor drive error",
+    "page": 42,
+    "linked_images": [],
+    "chunk_id": "chunk_0293",
+    "chunk_type": "section",
+    "text": "Inverter compressor drive error"
+  },
+  {
+    "section": "O（light） X（off） ☆（flash）",
+    "subsection": "O（light） X（off） ☆（flash）",
+    "page": 42,
+    "linked_images": [],
+    "chunk_id": "chunk_0294",
+    "chunk_type": "section",
+    "text": "O（light） X（off） ☆（flash）\n\n42"
+  },
+  {
+    "section": "Section 9",
+    "subsection": "9.2 Diagnosis and Solution",
+    "page": 43,
+    "linked_images": [],
+    "chunk_id": "chunk_0295",
+    "chunk_type": "section",
+    "text": "9.2 Diagnosis and Solution"
+  },
+  {
+    "section": "Section 9",
+    "subsection": "9.2.1 EEPROM parameter error diagnosis and solution(E0)",
+    "page": 43,
+    "linked_images": [],
+    "chunk_id": "chunk_0296",
+    "chunk_type": "section",
+    "text": "9.2.1 EEPROM parameter error diagnosis and solution(E0)"
+  },
+  {
+    "section": "Yes",
+    "subsection": "Yes",
+    "page": 43,
+    "linked_images": [],
+    "chunk_id": "chunk_0297",
+    "chunk_type": "section",
+    "text": "Yes"
+  },
+  {
+    "section": "Replace the indoor/outdoor main PCB.",
+    "subsection": "Replace the indoor/outdoor main PCB.",
+    "page": 43,
+    "linked_images": [],
+    "chunk_id": "chunk_0298",
+    "chunk_type": "section",
+    "text": "Replace the indoor/outdoor main PCB.\n\nPower off, then restart the unit 2 minutes later.\n\nEEPROM: a read-only memory whose contents can be erased and reprogrammed using a pulsed"
+  },
+  {
+    "section": "voltage.",
+    "subsection": "voltage.",
+    "page": 43,
+    "linked_images": [],
+    "chunk_id": "chunk_0299",
+    "chunk_type": "section",
+    "text": "voltage.\n\n43\n\n9.2.2 Indoor unit and outdoor unit communication protection error diagnosis and solution (E1)\n\nPower off, then turn on the unit 5 seconds\n\nLater (reconnect the power wire).Is the error\n\nstill displaying after several minutes?"
+  },
+  {
+    "section": "Yes",
+    "subsection": "Yes",
+    "page": 44,
+    "linked_images": [],
+    "chunk_id": "chunk_0300",
+    "chunk_type": "section",
+    "text": "Yes\n\nMeasure Vs, is it moving alternately with\n\npositive value? (Vs is the voltage"
+  },
+  {
+    "section": "between L2 and S of outdoor unit.",
+    "subsection": "between L2 and S of outdoor unit.",
+    "page": 44,
+    "linked_images": [],
+    "chunk_id": "chunk_0301",
+    "chunk_type": "section",
+    "text": "between L2 and S of outdoor unit.\n\nConnect the red pin of multimeter with"
+  },
+  {
+    "section": "L2 port, and the black pin with the S port",
+    "subsection": "L2 port, and the black pin with the S port",
+    "page": 44,
+    "linked_images": [],
+    "chunk_id": "chunk_0302",
+    "chunk_type": "section",
+    "text": "L2 port, and the black pin with the S port"
+  },
+  {
+    "section": "Yes",
+    "subsection": "Yes",
+    "page": 44,
+    "linked_images": [],
+    "chunk_id": "chunk_0303",
+    "chunk_type": "section",
+    "text": "Yes"
+  },
+  {
+    "section": "No",
+    "subsection": "No",
+    "page": 44,
+    "linked_images": [],
+    "chunk_id": "chunk_0304",
+    "chunk_type": "section",
+    "text": "No\n\nCheck all the wiring with outdoor units. Is the\n\nwiring to the outdoor main PCB connected\n\ncorrectly? Is the reactor connected well?"
+  },
+  {
+    "section": "Yes",
+    "subsection": "Yes",
+    "page": 44,
+    "linked_images": [],
+    "chunk_id": "chunk_0305",
+    "chunk_type": "section",
+    "text": "Yes"
+  },
+  {
+    "section": "Measure the resistance of the reactor (the",
+    "subsection": "Measure the resistance of the reactor (the",
+    "page": 44,
+    "linked_images": [],
+    "chunk_id": "chunk_0306",
+    "chunk_type": "section",
+    "text": "Measure the resistance of the reactor (the\n\nCheck all the wiring with indoor units. Is the\n\none without capacitor). If it is zero, follow the\n\nwiring to the indoor main PCB connected\n\nstep below. If not, replace with a new reactor."
+  },
+  {
+    "section": "correctly?",
+    "subsection": "correctly?",
+    "page": 44,
+    "linked_images": [],
+    "chunk_id": "chunk_0307",
+    "chunk_type": "section",
+    "text": "correctly?"
+  },
+  {
+    "section": "Yes",
+    "subsection": "Yes",
+    "page": 44,
+    "linked_images": [],
+    "chunk_id": "chunk_0308",
+    "chunk_type": "section",
+    "text": "Yes"
+  },
+  {
+    "section": "Replace the outdoor main PCB.",
+    "subsection": "Replace the outdoor main PCB.",
+    "page": 44,
+    "linked_images": [],
+    "chunk_id": "chunk_0309",
+    "chunk_type": "section",
+    "text": "Replace the outdoor main PCB."
+  },
+  {
+    "section": "Replace the indoor main PCB.",
+    "subsection": "Replace the indoor main PCB.",
+    "page": 44,
+    "linked_images": [],
+    "chunk_id": "chunk_0310",
+    "chunk_type": "section",
+    "text": "Replace the indoor main PCB.\n\nPower on, is the error extinguished?\n\nPower on, is the error extinguished?"
+  },
+  {
+    "section": "No",
+    "subsection": "No",
+    "page": 44,
+    "linked_images": [],
+    "chunk_id": "chunk_0311",
+    "chunk_type": "section",
+    "text": "No"
+  },
+  {
+    "section": "No",
+    "subsection": "No",
+    "page": 44,
+    "linked_images": [],
+    "chunk_id": "chunk_0312",
+    "chunk_type": "section",
+    "text": "No"
+  },
+  {
+    "section": "Replace the indoor main PCB.",
+    "subsection": "Replace the indoor main PCB.",
+    "page": 44,
+    "linked_images": [],
+    "chunk_id": "chunk_0313",
+    "chunk_type": "section",
+    "text": "Replace the indoor main PCB."
+  },
+  {
+    "section": "Replace the outdoor main PCB.",
+    "subsection": "Replace the outdoor main PCB.",
+    "page": 44,
+    "linked_images": [],
+    "chunk_id": "chunk_0314",
+    "chunk_type": "section",
+    "text": "Replace the outdoor main PCB.\n\n44\n\n9.2.3 Zero crossing detection error diagnosis and solution (E2)"
+  },
+  {
+    "section": "Yes",
+    "subsection": "Yes",
+    "page": 45,
+    "linked_images": [],
+    "chunk_id": "chunk_0315",
+    "chunk_type": "section",
+    "text": "Yes\n\nIndoor main PCB is defective. Replace indoor main PCB.\n\nPower off, then restart the unit 2 minutes later\n\n9.2.4 Fan speed has been out of control diagnosis and solution (E3/F5)\n\nPower off, then restart the unit 2 minutes later"
+  },
+  {
+    "section": "Shut off the power supply, Rotate the fan by hand.",
+    "subsection": "Shut off the power supply, Rotate the fan by hand.",
+    "page": 45,
+    "linked_images": [],
+    "chunk_id": "chunk_0316",
+    "chunk_type": "section",
+    "text": "Shut off the power supply, Rotate the fan by hand.\n\nThe unit operates normally.\n\nFind out the cause and have it solved\n\nCheck the wiring of fan motor"
+  },
+  {
+    "section": "No",
+    "subsection": "No",
+    "page": 45,
+    "linked_images": [],
+    "chunk_id": "chunk_0317",
+    "chunk_type": "section",
+    "text": "No"
+  },
+  {
+    "section": "Yes",
+    "subsection": "Yes",
+    "page": 45,
+    "linked_images": [],
+    "chunk_id": "chunk_0318",
+    "chunk_type": "section",
+    "text": "Yes"
+  },
+  {
+    "section": "No",
+    "subsection": "No",
+    "page": 45,
+    "linked_images": [],
+    "chunk_id": "chunk_0319",
+    "chunk_type": "section",
+    "text": "No\n\nCorrect the connections."
+  },
+  {
+    "section": "No",
+    "subsection": "No",
+    "page": 45,
+    "linked_images": [],
+    "chunk_id": "chunk_0320",
+    "chunk_type": "section",
+    "text": "No"
+  },
+  {
+    "section": "No",
+    "subsection": "No",
+    "page": 45,
+    "linked_images": [],
+    "chunk_id": "chunk_0321",
+    "chunk_type": "section",
+    "text": "No"
+  },
+  {
+    "section": "Replace the fan motor",
+    "subsection": "Replace the fan motor",
+    "page": 45,
+    "linked_images": [],
+    "chunk_id": "chunk_0322",
+    "chunk_type": "section",
+    "text": "Replace the fan motor"
+  },
+  {
+    "section": "Yes",
+    "subsection": "Yes",
+    "page": 45,
+    "linked_images": [],
+    "chunk_id": "chunk_0323",
+    "chunk_type": "section",
+    "text": "Yes"
+  },
+  {
+    "section": "Yes",
+    "subsection": "Yes",
+    "page": 45,
+    "linked_images": [],
+    "chunk_id": "chunk_0324",
+    "chunk_type": "section",
+    "text": "Yes"
+  },
+  {
+    "section": "Measure the voltage for the fan motor from the main PCB",
+    "subsection": "Measure the voltage for the fan motor from the main PCB",
+    "page": 45,
+    "linked_images": [],
+    "chunk_id": "chunk_0325",
+    "chunk_type": "section",
+    "text": "Measure the voltage for the fan motor from the main PCB"
+  },
+  {
+    "section": "Yes",
+    "subsection": "Yes",
+    "page": 45,
+    "linked_images": [],
+    "chunk_id": "chunk_0326",
+    "chunk_type": "section",
+    "text": "Yes"
+  },
+  {
+    "section": "Replace the main PCB",
+    "subsection": "Replace the main PCB",
+    "page": 45,
+    "linked_images": [],
+    "chunk_id": "chunk_0327",
+    "chunk_type": "section",
+    "text": "Replace the main PCB"
+  },
+  {
+    "section": "No",
+    "subsection": "No",
+    "page": 45,
+    "linked_images": [
+      "img_019"
+    ],
+    "chunk_id": "chunk_0328",
+    "chunk_type": "section",
+    "text": "No\n\n45\n\nIndex 1: 1. Indoor AC Fan Motor Measure the resistance value of each winding by using the tester.\n\n2.Outdoor or indoor DC Fan Motor (control chip is in fan motor) Measure the resistance value of each winding by using the tester. If any resistance value is zero, the fan motor must have problems and need to be replaced.\n\n3. Outdoor or indoor DC Fan Motor (control chip is in on PCB)\n\nFor WZDK36-38G-W, WZDK40-38G-W-1 :\n\n1) Release the UVW connector. Measure the resistance of U-V, U-W, V-W. If the resistance is not equal to each other, the fan motor must has problems and need to be replaced. Otherwise, go to step 2."
+  },
+  {
+    "section": "For other motors:",
+    "subsection": "For other motors:",
+    "page": 46,
+    "linked_images": [
+      "img_019",
+      "img_020"
+    ],
+    "chunk_id": "chunk_0329",
+    "chunk_type": "section",
+    "text": "For other motors:\n\n46\n\nNO.\n\n1\n\n2\n\n3\n\n4\n\n5"
+  },
+  {
+    "section": "Color",
+    "subsection": "Color",
+    "page": 47,
+    "linked_images": [
+      "img_020"
+    ],
+    "chunk_id": "chunk_0330",
+    "chunk_type": "section",
+    "text": "Color"
+  },
+  {
+    "section": "Orange",
+    "subsection": "Orange",
+    "page": 47,
+    "linked_images": [
+      "img_020"
+    ],
+    "chunk_id": "chunk_0331",
+    "chunk_type": "section",
+    "text": "Orange"
+  },
+  {
+    "section": "Grey",
+    "subsection": "Grey",
+    "page": 47,
+    "linked_images": [
+      "img_020"
+    ],
+    "chunk_id": "chunk_0332",
+    "chunk_type": "section",
+    "text": "Grey"
+  },
+  {
+    "section": "White",
+    "subsection": "White",
+    "page": 47,
+    "linked_images": [
+      "img_020"
+    ],
+    "chunk_id": "chunk_0333",
+    "chunk_type": "section",
+    "text": "White"
+  },
+  {
+    "section": "Pink",
+    "subsection": "Pink",
+    "page": 47,
+    "linked_images": [
+      "img_020"
+    ],
+    "chunk_id": "chunk_0334",
+    "chunk_type": "section",
+    "text": "Pink"
+  },
+  {
+    "section": "Black",
+    "subsection": "Black",
+    "page": 47,
+    "linked_images": [
+      "img_020"
+    ],
+    "chunk_id": "chunk_0335",
+    "chunk_type": "section",
+    "text": "Black"
+  },
+  {
+    "section": "Signal",
+    "subsection": "Signal",
+    "page": 47,
+    "linked_images": [
+      "img_020"
+    ],
+    "chunk_id": "chunk_0336",
+    "chunk_type": "section",
+    "text": "Signal"
+  },
+  {
+    "section": "Hu",
+    "subsection": "Hu",
+    "page": 47,
+    "linked_images": [
+      "img_020"
+    ],
+    "chunk_id": "chunk_0337",
+    "chunk_type": "section",
+    "text": "Hu"
+  },
+  {
+    "section": "Hv",
+    "subsection": "Hv",
+    "page": 47,
+    "linked_images": [
+      "img_020"
+    ],
+    "chunk_id": "chunk_0338",
+    "chunk_type": "section",
+    "text": "Hv"
+  },
+  {
+    "section": "Hw",
+    "subsection": "Hw",
+    "page": 47,
+    "linked_images": [
+      "img_020"
+    ],
+    "chunk_id": "chunk_0339",
+    "chunk_type": "section",
+    "text": "Hw"
+  },
+  {
+    "section": "Vcc",
+    "subsection": "Vcc",
+    "page": 47,
+    "linked_images": [
+      "img_020"
+    ],
+    "chunk_id": "chunk_0340",
+    "chunk_type": "section",
+    "text": "Vcc"
+  },
+  {
+    "section": "GND",
+    "subsection": "GND",
+    "page": 47,
+    "linked_images": [
+      "img_020"
+    ],
+    "chunk_id": "chunk_0341",
+    "chunk_type": "section",
+    "text": "GND"
+  },
+  {
+    "section": "Color",
+    "subsection": "Color",
+    "page": 47,
+    "linked_images": [
+      "img_020"
+    ],
+    "chunk_id": "chunk_0342",
+    "chunk_type": "section",
+    "text": "Color"
+  },
+  {
+    "section": "Red",
+    "subsection": "Red",
+    "page": 47,
+    "linked_images": [
+      "img_020"
+    ],
+    "chunk_id": "chunk_0343",
+    "chunk_type": "section",
+    "text": "Red"
+  },
+  {
+    "section": "Blue",
+    "subsection": "Blue",
+    "page": 47,
+    "linked_images": [
+      "img_020"
+    ],
+    "chunk_id": "chunk_0344",
+    "chunk_type": "section",
+    "text": "Blue"
+  },
+  {
+    "section": "Yellow",
+    "subsection": "Yellow",
+    "page": 47,
+    "linked_images": [
+      "img_020"
+    ],
+    "chunk_id": "chunk_0345",
+    "chunk_type": "section",
+    "text": "Yellow"
+  },
+  {
+    "section": "Signal",
+    "subsection": "Signal",
+    "page": 47,
+    "linked_images": [
+      "img_020"
+    ],
+    "chunk_id": "chunk_0346",
+    "chunk_type": "section",
+    "text": "Signal"
+  },
+  {
+    "section": "W",
+    "subsection": "W",
+    "page": 47,
+    "linked_images": [
+      "img_020"
+    ],
+    "chunk_id": "chunk_0347",
+    "chunk_type": "section",
+    "text": "W"
+  },
+  {
+    "section": "V",
+    "subsection": "V",
+    "page": 47,
+    "linked_images": [
+      "img_020"
+    ],
+    "chunk_id": "chunk_0348",
+    "chunk_type": "section",
+    "text": "V"
+  },
+  {
+    "section": "U",
+    "subsection": "U",
+    "page": 47,
+    "linked_images": [
+      "img_020"
+    ],
+    "chunk_id": "chunk_0349",
+    "chunk_type": "section",
+    "text": "U\n\n1) Release the UVW connector. Measure the resistance of U-V, U-W, V-W. If the resistance is not equal to each other, the fan motor must has problems and need to be replaced. Otherwise, go to step 2.\n\n2) Power on and when the unit is in standby, measure the voltage of pin4-5 in feedback signal\n\nconnector. If the value is not 5V, change the PCB. Otherwise, go to step 3.\n\nIndex2: 1: Indoor AC Fan Motor Power on and set the unit running in fan mode at high fan speed. After running for 15 seconds, measure the voltage of pin1 and pin2. If the value of the voltage is less than 100V(208~240V power supply)or 50V(115V power supply), the PCB must has problems and need to be replaced.\n\n2. Indoor or Outdoor DC Fan Motor (control chip is in fan motor) Power on and when the unit is in standby, measure the voltage of pin1-pin3, pin4-pin3 in fan motor connector. If the value of the voltage is not in the range showing in below table, the PCB must has problems and need to be replaced.\n\n47"
+  },
+  {
+    "section": "DC motor voltage input and output",
+    "subsection": "DC motor voltage input and output",
+    "page": 48,
+    "linked_images": [
+      "img_021"
+    ],
+    "chunk_id": "chunk_0350",
+    "chunk_type": "section",
+    "text": "DC motor voltage input and output\n\nNO."
+  },
+  {
+    "section": "Color",
+    "subsection": "Color",
+    "page": 48,
+    "linked_images": [
+      "img_021"
+    ],
+    "chunk_id": "chunk_0351",
+    "chunk_type": "section",
+    "text": "Color"
+  },
+  {
+    "section": "Signal",
+    "subsection": "Signal",
+    "page": 48,
+    "linked_images": [
+      "img_021"
+    ],
+    "chunk_id": "chunk_0352",
+    "chunk_type": "section",
+    "text": "Signal\n\n1"
+  },
+  {
+    "section": "Red",
+    "subsection": "Red",
+    "page": 48,
+    "linked_images": [
+      "img_021"
+    ],
+    "chunk_id": "chunk_0353",
+    "chunk_type": "section",
+    "text": "Red"
+  },
+  {
+    "section": "Vs/Vm",
+    "subsection": "Vs/Vm",
+    "page": 48,
+    "linked_images": [
+      "img_021"
+    ],
+    "chunk_id": "chunk_0354",
+    "chunk_type": "section",
+    "text": "Vs/Vm\n\n2\n\n---\n\n---\n\n3"
+  },
+  {
+    "section": "Black",
+    "subsection": "Black",
+    "page": 48,
+    "linked_images": [
+      "img_021"
+    ],
+    "chunk_id": "chunk_0355",
+    "chunk_type": "section",
+    "text": "Black"
+  },
+  {
+    "section": "GND",
+    "subsection": "GND",
+    "page": 48,
+    "linked_images": [
+      "img_021"
+    ],
+    "chunk_id": "chunk_0356",
+    "chunk_type": "section",
+    "text": "GND\n\n4"
+  },
+  {
+    "section": "White",
+    "subsection": "White",
+    "page": 48,
+    "linked_images": [
+      "img_021"
+    ],
+    "chunk_id": "chunk_0357",
+    "chunk_type": "section",
+    "text": "White"
+  },
+  {
+    "section": "Vcc",
+    "subsection": "Vcc",
+    "page": 48,
+    "linked_images": [
+      "img_021"
+    ],
+    "chunk_id": "chunk_0358",
+    "chunk_type": "section",
+    "text": "Vcc\n\n5"
+  },
+  {
+    "section": "Yellow",
+    "subsection": "Yellow",
+    "page": 48,
+    "linked_images": [
+      "img_021"
+    ],
+    "chunk_id": "chunk_0359",
+    "chunk_type": "section",
+    "text": "Yellow"
+  },
+  {
+    "section": "Vsp",
+    "subsection": "Vsp",
+    "page": 48,
+    "linked_images": [
+      "img_021"
+    ],
+    "chunk_id": "chunk_0360",
+    "chunk_type": "section",
+    "text": "Vsp\n\n6"
+  },
+  {
+    "section": "Blue",
+    "subsection": "Blue",
+    "page": 48,
+    "linked_images": [
+      "img_021"
+    ],
+    "chunk_id": "chunk_0361",
+    "chunk_type": "section",
+    "text": "Blue"
+  },
+  {
+    "section": "FG",
+    "subsection": "FG",
+    "page": 48,
+    "linked_images": [
+      "img_021"
+    ],
+    "chunk_id": "chunk_0362",
+    "chunk_type": "section",
+    "text": "FG"
+  },
+  {
+    "section": "Voltage",
+    "subsection": "Voltage",
+    "page": 48,
+    "linked_images": [
+      "img_021"
+    ],
+    "chunk_id": "chunk_0363",
+    "chunk_type": "section",
+    "text": "Voltage\n\n280V~380V\n\n---"
+  },
+  {
+    "section": "0V",
+    "subsection": "0V",
+    "page": 48,
+    "linked_images": [
+      "img_021"
+    ],
+    "chunk_id": "chunk_0364",
+    "chunk_type": "section",
+    "text": "0V\n\n14-17.5V\n\n0~5.6V\n\n14-17.5V\n\n48"
+  },
+  {
+    "section": "Section 9",
+    "subsection": "9.2.5 Open circuit or short circuit of temperature sensor diagnosis and solution",
+    "page": 49,
+    "linked_images": [],
+    "chunk_id": "chunk_0365",
+    "chunk_type": "section",
+    "text": "9.2.5 Open circuit or short circuit of temperature sensor diagnosis and solution\n\n(E4/E5/F1/F2/F3)\n\nCheck the connection between temperature sensor and PCB.\n\nCorrect the connection"
+  },
+  {
+    "section": "No",
+    "subsection": "No",
+    "page": 49,
+    "linked_images": [],
+    "chunk_id": "chunk_0366",
+    "chunk_type": "section",
+    "text": "No"
+  },
+  {
+    "section": "Yes",
+    "subsection": "Yes",
+    "page": 49,
+    "linked_images": [],
+    "chunk_id": "chunk_0367",
+    "chunk_type": "section",
+    "text": "Yes"
+  },
+  {
+    "section": "Replace indoor or outdoor main PCB",
+    "subsection": "Replace indoor or outdoor main PCB",
+    "page": 49,
+    "linked_images": [],
+    "chunk_id": "chunk_0368",
+    "chunk_type": "section",
+    "text": "Replace indoor or outdoor main PCB"
+  },
+  {
+    "section": "Measure the resistance value of the sensor",
+    "subsection": "Measure the resistance value of the sensor",
+    "page": 49,
+    "linked_images": [],
+    "chunk_id": "chunk_0369",
+    "chunk_type": "section",
+    "text": "Measure the resistance value of the sensor\n\nRepalce the sensor"
+  },
+  {
+    "section": "No",
+    "subsection": "No",
+    "page": 49,
+    "linked_images": [],
+    "chunk_id": "chunk_0370",
+    "chunk_type": "section",
+    "text": "No"
+  },
+  {
+    "section": "Yes",
+    "subsection": "Yes",
+    "page": 49,
+    "linked_images": [],
+    "chunk_id": "chunk_0371",
+    "chunk_type": "section",
+    "text": "Yes\n\n49"
+  },
+  {
+    "section": "Section 9",
+    "subsection": "9.2.6 Refrigerant Leakage Detection diagnosis and solution (EC)",
+    "page": 50,
+    "linked_images": [],
+    "chunk_id": "chunk_0372",
+    "chunk_type": "section",
+    "text": "9.2.6 Refrigerant Leakage Detection diagnosis and solution (EC)\n\nCheck cool air blowing out from indoor air outlet"
+  },
+  {
+    "section": "Yes",
+    "subsection": "Yes",
+    "page": 50,
+    "linked_images": [],
+    "chunk_id": "chunk_0373",
+    "chunk_type": "section",
+    "text": "Yes"
+  },
+  {
+    "section": "Yes",
+    "subsection": "Yes",
+    "page": 50,
+    "linked_images": [],
+    "chunk_id": "chunk_0374",
+    "chunk_type": "section",
+    "text": "Yes\n\nCheck if T2 sensor"
+  },
+  {
+    "section": "No",
+    "subsection": "No",
+    "page": 50,
+    "linked_images": [],
+    "chunk_id": "chunk_0375",
+    "chunk_type": "section",
+    "text": "No"
+  },
+  {
+    "section": "Check leakage of system",
+    "subsection": "Check leakage of system",
+    "page": 50,
+    "linked_images": [],
+    "chunk_id": "chunk_0376",
+    "chunk_type": "section",
+    "text": "Check leakage of system"
+  },
+  {
+    "section": "No",
+    "subsection": "No",
+    "page": 50,
+    "linked_images": [],
+    "chunk_id": "chunk_0377",
+    "chunk_type": "section",
+    "text": "No\n\nPower off, then restart the unit 2 minutes later."
+  },
+  {
+    "section": "Replace indoor PCB.",
+    "subsection": "Replace indoor PCB.",
+    "page": 50,
+    "linked_images": [],
+    "chunk_id": "chunk_0378",
+    "chunk_type": "section",
+    "text": "Replace indoor PCB."
+  },
+  {
+    "section": "Yes",
+    "subsection": "Yes",
+    "page": 50,
+    "linked_images": [],
+    "chunk_id": "chunk_0379",
+    "chunk_type": "section",
+    "text": "Yes\n\nRepair the leakage and recharge the refrigerant."
+  },
+  {
+    "section": "Yes",
+    "subsection": "Yes",
+    "page": 50,
+    "linked_images": [],
+    "chunk_id": "chunk_0380",
+    "chunk_type": "section",
+    "text": "Yes\n\ncheck blockIng of system and clear the blocking\n\n50"
+  },
+  {
+    "section": "Section 9",
+    "subsection": "9.2.7 IPM malfunction or IGBT over-strong current protection diagnosis and solution(P0)",
+    "page": 51,
+    "linked_images": [],
+    "chunk_id": "chunk_0381",
+    "chunk_type": "section",
+    "text": "9.2.7 IPM malfunction or IGBT over-strong current protection diagnosis and solution(P0)\n\nCheck the wiring between main PCB and compressor\n\nCorrect the connection or replace the wires and connectors."
+  },
+  {
+    "section": "Yes",
+    "subsection": "Yes",
+    "page": 51,
+    "linked_images": [],
+    "chunk_id": "chunk_0382",
+    "chunk_type": "section",
+    "text": "Yes"
+  },
+  {
+    "section": "No",
+    "subsection": "No",
+    "page": 51,
+    "linked_images": [],
+    "chunk_id": "chunk_0383",
+    "chunk_type": "section",
+    "text": "No"
+  },
+  {
+    "section": "Check the IPM",
+    "subsection": "Check the IPM",
+    "page": 51,
+    "linked_images": [],
+    "chunk_id": "chunk_0384",
+    "chunk_type": "section",
+    "text": "Check the IPM"
+  },
+  {
+    "section": "No",
+    "subsection": "No",
+    "page": 51,
+    "linked_images": [],
+    "chunk_id": "chunk_0385",
+    "chunk_type": "section",
+    "text": "No"
+  },
+  {
+    "section": "Yes",
+    "subsection": "Yes",
+    "page": 51,
+    "linked_images": [],
+    "chunk_id": "chunk_0386",
+    "chunk_type": "section",
+    "text": "Yes\n\nReplace the IPM board or replace the main PCB\n\nCheck the outdoor fan and the outdoor unit ventilation"
+  },
+  {
+    "section": "No",
+    "subsection": "No",
+    "page": 51,
+    "linked_images": [],
+    "chunk_id": "chunk_0387",
+    "chunk_type": "section",
+    "text": "No\n\nPlease refer to the solution of 【Fan Speed Has Been Out Of Control】malfunction"
+  },
+  {
+    "section": "Yes",
+    "subsection": "Yes",
+    "page": 51,
+    "linked_images": [],
+    "chunk_id": "chunk_0388",
+    "chunk_type": "section",
+    "text": "Yes\n\nCheck the compressor resistance values"
+  },
+  {
+    "section": "No",
+    "subsection": "No",
+    "page": 51,
+    "linked_images": [],
+    "chunk_id": "chunk_0389",
+    "chunk_type": "section",
+    "text": "No"
+  },
+  {
+    "section": "Replace the compressor.",
+    "subsection": "Replace the compressor.",
+    "page": 51,
+    "linked_images": [],
+    "chunk_id": "chunk_0390",
+    "chunk_type": "section",
+    "text": "Replace the compressor."
+  },
+  {
+    "section": "Yes",
+    "subsection": "Yes",
+    "page": 51,
+    "linked_images": [],
+    "chunk_id": "chunk_0391",
+    "chunk_type": "section",
+    "text": "Yes"
+  },
+  {
+    "section": "Replace the outdoor main PCB",
+    "subsection": "Replace the outdoor main PCB",
+    "page": 51,
+    "linked_images": [],
+    "chunk_id": "chunk_0392",
+    "chunk_type": "section",
+    "text": "Replace the outdoor main PCB\n\n51"
+  },
+  {
+    "section": "Section 9",
+    "subsection": "9.2.8 Over voltage or too low voltage protection diagnosis and solution (P1)",
+    "page": 52,
+    "linked_images": [],
+    "chunk_id": "chunk_0393",
+    "chunk_type": "section",
+    "text": "9.2.8 Over voltage or too low voltage protection diagnosis and solution (P1)\n\nCheck the power supply\n\nCheck the connections and wires\n\nStop the unit"
+  },
+  {
+    "section": "No",
+    "subsection": "No",
+    "page": 52,
+    "linked_images": [],
+    "chunk_id": "chunk_0394",
+    "chunk_type": "section",
+    "text": "No"
+  },
+  {
+    "section": "Yes",
+    "subsection": "Yes",
+    "page": 52,
+    "linked_images": [],
+    "chunk_id": "chunk_0395",
+    "chunk_type": "section",
+    "text": "Yes"
+  },
+  {
+    "section": "No",
+    "subsection": "No",
+    "page": 52,
+    "linked_images": [],
+    "chunk_id": "chunk_0396",
+    "chunk_type": "section",
+    "text": "No\n\nCorrect the connections or replace the wires."
+  },
+  {
+    "section": "Yes",
+    "subsection": "Yes",
+    "page": 52,
+    "linked_images": [],
+    "chunk_id": "chunk_0397",
+    "chunk_type": "section",
+    "text": "Yes"
+  },
+  {
+    "section": "Replace the reactor",
+    "subsection": "Replace the reactor",
+    "page": 52,
+    "linked_images": [],
+    "chunk_id": "chunk_0398",
+    "chunk_type": "section",
+    "text": "Replace the reactor"
+  },
+  {
+    "section": "Yes",
+    "subsection": "Yes",
+    "page": 52,
+    "linked_images": [],
+    "chunk_id": "chunk_0399",
+    "chunk_type": "section",
+    "text": "Yes"
+  },
+  {
+    "section": "No",
+    "subsection": "No",
+    "page": 52,
+    "linked_images": [],
+    "chunk_id": "chunk_0400",
+    "chunk_type": "section",
+    "text": "No"
+  },
+  {
+    "section": "Replace the IPM board",
+    "subsection": "Replace the IPM board",
+    "page": 52,
+    "linked_images": [],
+    "chunk_id": "chunk_0401",
+    "chunk_type": "section",
+    "text": "Replace the IPM board\n\nCheck the voltage between P and N\n\nCheck the reactor"
+  },
+  {
+    "section": "Yes",
+    "subsection": "Yes",
+    "page": 52,
+    "linked_images": [],
+    "chunk_id": "chunk_0402",
+    "chunk_type": "section",
+    "text": "Yes"
+  },
+  {
+    "section": "No",
+    "subsection": "No",
+    "page": 52,
+    "linked_images": [],
+    "chunk_id": "chunk_0403",
+    "chunk_type": "section",
+    "text": "No"
+  },
+  {
+    "section": "Replace outdoor main PCB",
+    "subsection": "Replace outdoor main PCB",
+    "page": 52,
+    "linked_images": [],
+    "chunk_id": "chunk_0404",
+    "chunk_type": "section",
+    "text": "Replace outdoor main PCB\n\n52"
+  },
+  {
+    "section": "Section 9",
+    "subsection": "9.2.9 High temperature protection of compressor top diagnosis and solution (P2)",
+    "page": 53,
+    "linked_images": [],
+    "chunk_id": "chunk_0405",
+    "chunk_type": "section",
+    "text": "9.2.9 High temperature protection of compressor top diagnosis and solution (P2)\n\nCheck the air flow system of indoor and outdoor units\n\nClear up the air inlet and outlet or the heat exchanger of indoor and outdoor units."
+  },
+  {
+    "section": "Yes",
+    "subsection": "Yes",
+    "page": 53,
+    "linked_images": [],
+    "chunk_id": "chunk_0406",
+    "chunk_type": "section",
+    "text": "Yes"
+  },
+  {
+    "section": "No",
+    "subsection": "No",
+    "page": 53,
+    "linked_images": [],
+    "chunk_id": "chunk_0407",
+    "chunk_type": "section",
+    "text": "No"
+  },
+  {
+    "section": "Yes",
+    "subsection": "Yes",
+    "page": 53,
+    "linked_images": [],
+    "chunk_id": "chunk_0408",
+    "chunk_type": "section",
+    "text": "Yes"
+  },
+  {
+    "section": "Yes",
+    "subsection": "Yes",
+    "page": 53,
+    "linked_images": [],
+    "chunk_id": "chunk_0409",
+    "chunk_type": "section",
+    "text": "Yes\n\nPower off, then restart the unit 10 minutes later\n\nCheck if the temperature of compressor"
+  },
+  {
+    "section": "No",
+    "subsection": "No",
+    "page": 53,
+    "linked_images": [],
+    "chunk_id": "chunk_0410",
+    "chunk_type": "section",
+    "text": "No"
+  },
+  {
+    "section": "Check refrigerant system",
+    "subsection": "Check refrigerant system",
+    "page": 53,
+    "linked_images": [],
+    "chunk_id": "chunk_0411",
+    "chunk_type": "section",
+    "text": "Check refrigerant system"
+  },
+  {
+    "section": "Yes",
+    "subsection": "Yes",
+    "page": 53,
+    "linked_images": [],
+    "chunk_id": "chunk_0412",
+    "chunk_type": "section",
+    "text": "Yes\n\nCheck the overload protector\n\nCorrect the connection."
+  },
+  {
+    "section": "No",
+    "subsection": "No",
+    "page": 53,
+    "linked_images": [],
+    "chunk_id": "chunk_0413",
+    "chunk_type": "section",
+    "text": "No\n\nMeasure the resistance between the two ports of the OLP. Is it zero?"
+  },
+  {
+    "section": "Yes",
+    "subsection": "Yes",
+    "page": 53,
+    "linked_images": [],
+    "chunk_id": "chunk_0414",
+    "chunk_type": "section",
+    "text": "Yes"
+  },
+  {
+    "section": "Replace the OLP.",
+    "subsection": "Replace the OLP.",
+    "page": 53,
+    "linked_images": [],
+    "chunk_id": "chunk_0415",
+    "chunk_type": "section",
+    "text": "Replace the OLP."
+  },
+  {
+    "section": "No",
+    "subsection": "No",
+    "page": 53,
+    "linked_images": [],
+    "chunk_id": "chunk_0416",
+    "chunk_type": "section",
+    "text": "No"
+  },
+  {
+    "section": "Replace the outdoor control PCB.",
+    "subsection": "Replace the outdoor control PCB.",
+    "page": 53,
+    "linked_images": [],
+    "chunk_id": "chunk_0417",
+    "chunk_type": "section",
+    "text": "Replace the outdoor control PCB."
+  },
+  {
+    "section": "Yes",
+    "subsection": "Yes",
+    "page": 53,
+    "linked_images": [],
+    "chunk_id": "chunk_0418",
+    "chunk_type": "section",
+    "text": "Yes\n\n53"
+  },
+  {
+    "section": "Section 9",
+    "subsection": "9.2.10 Inverter compressor drive error diagnosis and solution (P4)",
+    "page": 54,
+    "linked_images": [],
+    "chunk_id": "chunk_0419",
+    "chunk_type": "section",
+    "text": "9.2.10 Inverter compressor drive error diagnosis and solution (P4)\n\nCheck the wiring between main PCB and compressor\n\nCorrect the connection or replace the wires and connectors."
+  },
+  {
+    "section": "Yes",
+    "subsection": "Yes",
+    "page": 54,
+    "linked_images": [],
+    "chunk_id": "chunk_0420",
+    "chunk_type": "section",
+    "text": "Yes"
+  },
+  {
+    "section": "No",
+    "subsection": "No",
+    "page": 54,
+    "linked_images": [],
+    "chunk_id": "chunk_0421",
+    "chunk_type": "section",
+    "text": "No"
+  },
+  {
+    "section": "Check the IPM",
+    "subsection": "Check the IPM",
+    "page": 54,
+    "linked_images": [],
+    "chunk_id": "chunk_0422",
+    "chunk_type": "section",
+    "text": "Check the IPM"
+  },
+  {
+    "section": "No",
+    "subsection": "No",
+    "page": 54,
+    "linked_images": [],
+    "chunk_id": "chunk_0423",
+    "chunk_type": "section",
+    "text": "No"
+  },
+  {
+    "section": "Yes",
+    "subsection": "Yes",
+    "page": 54,
+    "linked_images": [],
+    "chunk_id": "chunk_0424",
+    "chunk_type": "section",
+    "text": "Yes\n\nReplace the IPM board or replace the main PCB\n\nCheck the outdoor fan and the outdoor unit ventilation"
+  },
+  {
+    "section": "No",
+    "subsection": "No",
+    "page": 54,
+    "linked_images": [],
+    "chunk_id": "chunk_0425",
+    "chunk_type": "section",
+    "text": "No\n\nPlease refer to the solution of 【Fan Speed Has Been Out Of Control】malfunction"
+  },
+  {
+    "section": "Yes",
+    "subsection": "Yes",
+    "page": 54,
+    "linked_images": [],
+    "chunk_id": "chunk_0426",
+    "chunk_type": "section",
+    "text": "Yes\n\nCheck the compressor resistance values"
+  },
+  {
+    "section": "No",
+    "subsection": "No",
+    "page": 54,
+    "linked_images": [],
+    "chunk_id": "chunk_0427",
+    "chunk_type": "section",
+    "text": "No"
+  },
+  {
+    "section": "Replace the compressor.",
+    "subsection": "Replace the compressor.",
+    "page": 54,
+    "linked_images": [],
+    "chunk_id": "chunk_0428",
+    "chunk_type": "section",
+    "text": "Replace the compressor."
+  },
+  {
+    "section": "Yes",
+    "subsection": "Yes",
+    "page": 54,
+    "linked_images": [],
+    "chunk_id": "chunk_0429",
+    "chunk_type": "section",
+    "text": "Yes"
+  },
+  {
+    "section": "Replace the outdoor main PCB",
+    "subsection": "Replace the outdoor main PCB",
+    "page": 54,
+    "linked_images": [],
+    "chunk_id": "chunk_0430",
+    "chunk_type": "section",
+    "text": "Replace the outdoor main PCB\n\n54"
+  },
+  {
+    "section": "Safety",
+    "subsection": "Safety",
+    "page": 55,
+    "linked_images": [
+      "img_022",
+      "img_023"
+    ],
+    "chunk_id": "chunk_0431",
+    "chunk_type": "section",
+    "text": "Safety\n\nElectricity power is still kept in capacitors even the power supply is shut off. Do not forget to discharge the electricity"
+  },
+  {
+    "section": "power in capacitor.",
+    "subsection": "power in capacitor.",
+    "page": 55,
+    "linked_images": [
+      "img_022",
+      "img_023"
+    ],
+    "chunk_id": "chunk_0432",
+    "chunk_type": "section",
+    "text": "power in capacitor."
+  },
+  {
+    "section": "Electrolytic Capacitors",
+    "subsection": "Electrolytic Capacitors",
+    "page": 55,
+    "linked_images": [
+      "img_022",
+      "img_023"
+    ],
+    "chunk_id": "chunk_0433",
+    "chunk_type": "section",
+    "text": "Electrolytic Capacitors\n\n(HIGH VOLTAGE! CAUTION!)\n\nConnect discharge resistance (approx.100Ω 40W) or soldering iron (plug) between +, - terminals of the electrolytic"
+  },
+  {
+    "section": "capacitor on the contrary side of the outdoor PCB.",
+    "subsection": "capacitor on the contrary side of the outdoor PCB.",
+    "page": 55,
+    "linked_images": [
+      "img_022",
+      "img_023"
+    ],
+    "chunk_id": "chunk_0434",
+    "chunk_type": "section",
+    "text": "capacitor on the contrary side of the outdoor PCB.\n\nNote: The picture above is only for reference. The plug of your side may be different.\n\nMain parts check\n\n1. Temperature sensor checking\n\nDisconnect the temperature sensor from PCB, measure the resistance value with a tester.\n\n55"
+  },
+  {
+    "section": "Temperature Sensors.",
+    "subsection": "Temperature Sensors.",
+    "page": 56,
+    "linked_images": [
+      "img_024"
+    ],
+    "chunk_id": "chunk_0435",
+    "chunk_type": "section",
+    "text": "Temperature Sensors.\n\nRoom temp.(T1) sensor,\n\nIndoor coil temp.(T2) sensor,\n\nOutdoor coil temp.(T3) sensor,\n\nOutdoor ambient temp.(T4) sensor,"
+  },
+  {
+    "section": "Compressor discharge temp.(T5) sensor.",
+    "subsection": "Compressor discharge temp.(T5) sensor.",
+    "page": 56,
+    "linked_images": [
+      "img_024"
+    ],
+    "chunk_id": "chunk_0436",
+    "chunk_type": "section",
+    "text": "Compressor discharge temp.(T5) sensor.\n\nMeasure the resistance value of each winding by using the multi-meter."
+  },
+  {
+    "section": "Table 1: Some frequently-used R-T data for T1,T2,T3 and T4 sensor:",
+    "subsection": "Table 1: Some frequently-used R-T data for T1,T2,T3 and T4 sensor:",
+    "page": 56,
+    "linked_images": [
+      "img_024"
+    ],
+    "chunk_id": "chunk_0437",
+    "chunk_type": "section",
+    "text": "Table 1: Some frequently-used R-T data for T1,T2,T3 and T4 sensor:"
+  },
+  {
+    "section": "Temperature (℃)",
+    "subsection": "Temperature (℃)",
+    "page": 56,
+    "linked_images": [
+      "img_024"
+    ],
+    "chunk_id": "chunk_0438",
+    "chunk_type": "section",
+    "text": "Temperature (℃)\n\n5\n\n10\n\n15\n\n20\n\n25\n\n30\n\n40\n\n50\n\n60"
+  },
+  {
+    "section": "Resistance Value (KΩ)",
+    "subsection": "Resistance Value (KΩ)",
+    "page": 56,
+    "linked_images": [
+      "img_024"
+    ],
+    "chunk_id": "chunk_0439",
+    "chunk_type": "section",
+    "text": "Resistance Value (KΩ)\n\n26.9 20.7 16.1 12.6 10\n\n8\n\n5.2 3.5 2.4"
+  },
+  {
+    "section": "Table 2: Some frequently-used R-T data for T5 sensor:",
+    "subsection": "Table 2: Some frequently-used R-T data for T5 sensor:",
+    "page": 56,
+    "linked_images": [
+      "img_024"
+    ],
+    "chunk_id": "chunk_0440",
+    "chunk_type": "section",
+    "text": "Table 2: Some frequently-used R-T data for T5 sensor:"
+  },
+  {
+    "section": "Temperature (℃)",
+    "subsection": "Temperature (℃)",
+    "page": 56,
+    "linked_images": [
+      "img_024"
+    ],
+    "chunk_id": "chunk_0441",
+    "chunk_type": "section",
+    "text": "Temperature (℃)\n\n5\n\n15\n\n25\n\n35\n\n60\n\n70\n\n80\n\n90\n\n100"
+  },
+  {
+    "section": "Resistance Value (KΩ)",
+    "subsection": "Resistance Value (KΩ)",
+    "page": 56,
+    "linked_images": [
+      "img_024"
+    ],
+    "chunk_id": "chunk_0442",
+    "chunk_type": "section",
+    "text": "Resistance Value (KΩ)\n\n141.6 88\n\n56.1 36.6 13.8 9.7 6.9 5\n\n3.7"
+  },
+  {
+    "section": "Resistance value (KΩ)",
+    "subsection": "Resistance value (KΩ)",
+    "page": 56,
+    "linked_images": [
+      "img_024"
+    ],
+    "chunk_id": "chunk_0443",
+    "chunk_type": "section",
+    "text": "Resistance value (KΩ)"
+  },
+  {
+    "section": "T5",
+    "subsection": "T5",
+    "page": 56,
+    "linked_images": [
+      "img_024"
+    ],
+    "chunk_id": "chunk_0444",
+    "chunk_type": "section",
+    "text": "T5\n\nT1,T2,T3,T4"
+  },
+  {
+    "section": "Temperature (℃)",
+    "subsection": "Temperature (℃)",
+    "page": 56,
+    "linked_images": [
+      "img_024"
+    ],
+    "chunk_id": "chunk_0445",
+    "chunk_type": "section",
+    "text": "Temperature (℃)\n\n56\n\n2. Compressor checking\n\nMeasure the resistance value of each winding by using the multimeter."
+  },
+  {
+    "section": "Position",
+    "subsection": "Position",
+    "page": 57,
+    "linked_images": [],
+    "chunk_id": "chunk_0446",
+    "chunk_type": "section",
+    "text": "Position"
+  },
+  {
+    "section": "Resistance Value at 20℃",
+    "subsection": "Resistance Value at 20℃",
+    "page": 57,
+    "linked_images": [],
+    "chunk_id": "chunk_0447",
+    "chunk_type": "section",
+    "text": "Resistance Value at 20℃"
+  },
+  {
+    "section": "Unit Model",
+    "subsection": "Unit Model",
+    "page": 57,
+    "linked_images": [],
+    "chunk_id": "chunk_0448",
+    "chunk_type": "section",
+    "text": "Unit Model\n\n38QHF025/38QHF036\n\n38QHF050\n\n38QHF060/38QHF065\n\n38QHF080"
+  },
+  {
+    "section": "(Compressor)",
+    "subsection": "(Compressor)",
+    "page": 57,
+    "linked_images": [],
+    "chunk_id": "chunk_0449",
+    "chunk_type": "section",
+    "text": "(Compressor)\n\n(ASN98D22UFZ)\n\n(DA130M1C-31FZ)\n\n(DA150S1C-20FZ)\n\n(DA250S2C-30MT)"
+  },
+  {
+    "section": "Blue - Red",
+    "subsection": "Blue - Red",
+    "page": 57,
+    "linked_images": [],
+    "chunk_id": "chunk_0450",
+    "chunk_type": "section",
+    "text": "Blue - Red"
+  },
+  {
+    "section": "Blue - Black",
+    "subsection": "Blue - Black",
+    "page": 57,
+    "linked_images": [],
+    "chunk_id": "chunk_0451",
+    "chunk_type": "section",
+    "text": "Blue - Black\n\n1.57Ω\n\n1.77Ω\n\n0.95Ω\n\n0.55Ω"
+  },
+  {
+    "section": "Red - Blue",
+    "subsection": "Red - Blue",
+    "page": 57,
+    "linked_images": [],
+    "chunk_id": "chunk_0452",
+    "chunk_type": "section",
+    "text": "Red - Blue\n\nThe resistance Value between each terminal should be the same."
+  },
+  {
+    "section": "3.IPM continuity check",
+    "subsection": "3.IPM continuity check",
+    "page": 57,
+    "linked_images": [],
+    "chunk_id": "chunk_0453",
+    "chunk_type": "section",
+    "text": "3.IPM continuity check\n\nTurn off the power, let the large capacity electrolytic capacitors discharge completely, and dismount the IPM. Use a\n\ndigital multimeter to measure the resistance between P and UVWN; UVW and N."
+  },
+  {
+    "section": "Digital tester",
+    "subsection": "Digital tester",
+    "page": 57,
+    "linked_images": [],
+    "chunk_id": "chunk_0454",
+    "chunk_type": "section",
+    "text": "Digital tester"
+  },
+  {
+    "section": "Normal resistance value",
+    "subsection": "Normal resistance value",
+    "page": 57,
+    "linked_images": [],
+    "chunk_id": "chunk_0455",
+    "chunk_type": "section",
+    "text": "Normal resistance value"
+  },
+  {
+    "section": "(+)Red",
+    "subsection": "(+)Red",
+    "page": 57,
+    "linked_images": [],
+    "chunk_id": "chunk_0456",
+    "chunk_type": "section",
+    "text": "(+)Red"
+  },
+  {
+    "section": "(-)Black",
+    "subsection": "(-)Black",
+    "page": 57,
+    "linked_images": [],
+    "chunk_id": "chunk_0457",
+    "chunk_type": "section",
+    "text": "(-)Black"
+  },
+  {
+    "section": "P",
+    "subsection": "P",
+    "page": 57,
+    "linked_images": [],
+    "chunk_id": "chunk_0458",
+    "chunk_type": "section",
+    "text": "P"
+  },
+  {
+    "section": "N",
+    "subsection": "N",
+    "page": 57,
+    "linked_images": [],
+    "chunk_id": "chunk_0459",
+    "chunk_type": "section",
+    "text": "N"
+  },
+  {
+    "section": "U",
+    "subsection": "U",
+    "page": 57,
+    "linked_images": [],
+    "chunk_id": "chunk_0460",
+    "chunk_type": "section",
+    "text": "U"
+  },
+  {
+    "section": "V",
+    "subsection": "V",
+    "page": 57,
+    "linked_images": [],
+    "chunk_id": "chunk_0461",
+    "chunk_type": "section",
+    "text": "V\n\n∞"
+  },
+  {
+    "section": "(Several MΩ)",
+    "subsection": "(Several MΩ)",
+    "page": 57,
+    "linked_images": [],
+    "chunk_id": "chunk_0462",
+    "chunk_type": "section",
+    "text": "(Several MΩ)"
+  },
+  {
+    "section": "W",
+    "subsection": "W",
+    "page": 57,
+    "linked_images": [],
+    "chunk_id": "chunk_0463",
+    "chunk_type": "section",
+    "text": "W"
+  },
+  {
+    "section": "Digital tester",
+    "subsection": "Digital tester",
+    "page": 57,
+    "linked_images": [],
+    "chunk_id": "chunk_0464",
+    "chunk_type": "section",
+    "text": "Digital tester"
+  },
+  {
+    "section": "Normal resistance value",
+    "subsection": "Normal resistance value",
+    "page": 57,
+    "linked_images": [],
+    "chunk_id": "chunk_0465",
+    "chunk_type": "section",
+    "text": "Normal resistance value"
+  },
+  {
+    "section": "(+)Red",
+    "subsection": "(+)Red",
+    "page": 57,
+    "linked_images": [],
+    "chunk_id": "chunk_0466",
+    "chunk_type": "section",
+    "text": "(+)Red"
+  },
+  {
+    "section": "(-)Black",
+    "subsection": "(-)Black",
+    "page": 57,
+    "linked_images": [],
+    "chunk_id": "chunk_0467",
+    "chunk_type": "section",
+    "text": "(-)Black"
+  },
+  {
+    "section": "U",
+    "subsection": "U",
+    "page": 57,
+    "linked_images": [],
+    "chunk_id": "chunk_0468",
+    "chunk_type": "section",
+    "text": "U\n\n∞"
+  },
+  {
+    "section": "V",
+    "subsection": "V",
+    "page": 57,
+    "linked_images": [],
+    "chunk_id": "chunk_0469",
+    "chunk_type": "section",
+    "text": "V"
+  },
+  {
+    "section": "N",
+    "subsection": "N",
+    "page": 57,
+    "linked_images": [],
+    "chunk_id": "chunk_0470",
+    "chunk_type": "section",
+    "text": "N"
+  },
+  {
+    "section": "(Several MΩ)",
+    "subsection": "(Several MΩ)",
+    "page": 57,
+    "linked_images": [],
+    "chunk_id": "chunk_0471",
+    "chunk_type": "section",
+    "text": "(Several MΩ)"
+  },
+  {
+    "section": "W",
+    "subsection": "W",
+    "page": 57,
+    "linked_images": [],
+    "chunk_id": "chunk_0472",
+    "chunk_type": "section",
+    "text": "W\n\n4. AC Fan Motor"
+  },
+  {
+    "section": "Fan motors for QHF series:",
+    "subsection": "Fan motors for QHF series:",
+    "page": 57,
+    "linked_images": [],
+    "chunk_id": "chunk_0473",
+    "chunk_type": "section",
+    "text": "Fan motors for QHF series:"
+  },
+  {
+    "section": "Model",
+    "subsection": "Model",
+    "page": 57,
+    "linked_images": [],
+    "chunk_id": "chunk_0474",
+    "chunk_type": "section",
+    "text": "Model"
+  },
+  {
+    "section": "QHF025",
+    "subsection": "QHF025",
+    "page": 57,
+    "linked_images": [],
+    "chunk_id": "chunk_0475",
+    "chunk_type": "section",
+    "text": "QHF025\n\nQHF036 / QHF050"
+  },
+  {
+    "section": "QHF060",
+    "subsection": "QHF060",
+    "page": 57,
+    "linked_images": [],
+    "chunk_id": "chunk_0476",
+    "chunk_type": "section",
+    "text": "QHF060"
+  },
+  {
+    "section": "QHF065",
+    "subsection": "QHF065",
+    "page": 57,
+    "linked_images": [],
+    "chunk_id": "chunk_0477",
+    "chunk_type": "section",
+    "text": "QHF065"
+  },
+  {
+    "section": "QHF080",
+    "subsection": "QHF080",
+    "page": 57,
+    "linked_images": [],
+    "chunk_id": "chunk_0478",
+    "chunk_type": "section",
+    "text": "QHF080"
+  },
+  {
+    "section": "Indoor fan motor",
+    "subsection": "Indoor fan motor",
+    "page": 57,
+    "linked_images": [],
+    "chunk_id": "chunk_0479",
+    "chunk_type": "section",
+    "text": "Indoor fan motor"
+  },
+  {
+    "section": "RPG20E",
+    "subsection": "RPG20E",
+    "page": 57,
+    "linked_images": [],
+    "chunk_id": "chunk_0480",
+    "chunk_type": "section",
+    "text": "RPG20E"
+  },
+  {
+    "section": "RPG28D",
+    "subsection": "RPG28D",
+    "page": 57,
+    "linked_images": [],
+    "chunk_id": "chunk_0481",
+    "chunk_type": "section",
+    "text": "RPG28D"
+  },
+  {
+    "section": "RPG45C",
+    "subsection": "RPG45C",
+    "page": 57,
+    "linked_images": [],
+    "chunk_id": "chunk_0482",
+    "chunk_type": "section",
+    "text": "RPG45C"
+  },
+  {
+    "section": "RPG45C",
+    "subsection": "RPG45C",
+    "page": 57,
+    "linked_images": [],
+    "chunk_id": "chunk_0483",
+    "chunk_type": "section",
+    "text": "RPG45C"
+  },
+  {
+    "section": "WZDK58-38G",
+    "subsection": "WZDK58-38G",
+    "page": 57,
+    "linked_images": [],
+    "chunk_id": "chunk_0484",
+    "chunk_type": "section",
+    "text": "WZDK58-38G\n\n(☆)"
+  },
+  {
+    "section": "Outdoor fan motor",
+    "subsection": "Outdoor fan motor",
+    "page": 57,
+    "linked_images": [],
+    "chunk_id": "chunk_0485",
+    "chunk_type": "section",
+    "text": "Outdoor fan motor"
+  },
+  {
+    "section": "WZDK36-38G-W",
+    "subsection": "WZDK36-38G-W",
+    "page": 57,
+    "linked_images": [],
+    "chunk_id": "chunk_0486",
+    "chunk_type": "section",
+    "text": "WZDK36-38G-W\n\n(★)\n\nWZDK40-38G-W-1\n\n(★)"
+  },
+  {
+    "section": "YDK53-6F",
+    "subsection": "YDK53-6F",
+    "page": 57,
+    "linked_images": [],
+    "chunk_id": "chunk_0487",
+    "chunk_type": "section",
+    "text": "YDK53-6F\n\nYDK100-6T"
+  },
+  {
+    "section": "WZDK72-38G",
+    "subsection": "WZDK72-38G",
+    "page": 57,
+    "linked_images": [],
+    "chunk_id": "chunk_0488",
+    "chunk_type": "section",
+    "text": "WZDK72-38G\n\n(☆)\n\nNote: The motor marked “★”means DC fan motor with control chip in the PCB while the one marked “☆” means DC fan\n\nmotor with control chip in the fan motor, others are AC fan motor.\n\n57\n\nFor AC fan motor, measure the resistance value of each winding by using the multimeter."
+  },
+  {
+    "section": "Position",
+    "subsection": "Position",
+    "page": 58,
+    "linked_images": [],
+    "chunk_id": "chunk_0489",
+    "chunk_type": "section",
+    "text": "Position"
+  },
+  {
+    "section": "Resistance Value at 20℃",
+    "subsection": "Resistance Value at 20℃",
+    "page": 58,
+    "linked_images": [],
+    "chunk_id": "chunk_0490",
+    "chunk_type": "section",
+    "text": "Resistance Value at 20℃"
+  },
+  {
+    "section": "IDU Model",
+    "subsection": "IDU Model",
+    "page": 58,
+    "linked_images": [],
+    "chunk_id": "chunk_0491",
+    "chunk_type": "section",
+    "text": "IDU Model\n\n42QHF025\n\n42QHF036/42QHF050"
+  },
+  {
+    "section": "(Motor Model)",
+    "subsection": "(Motor Model)",
+    "page": 58,
+    "linked_images": [],
+    "chunk_id": "chunk_0492",
+    "chunk_type": "section",
+    "text": "(Motor Model)\n\n(RPG20E)\n\n(RPG28D)"
+  },
+  {
+    "section": "Black - Red",
+    "subsection": "Black - Red",
+    "page": 58,
+    "linked_images": [],
+    "chunk_id": "chunk_0493",
+    "chunk_type": "section",
+    "text": "Black - Red\n\n430Ω±8%\n\n270Ω±8%"
+  },
+  {
+    "section": "(Brand: Broad ocean)",
+    "subsection": "(Brand: Broad ocean)",
+    "page": 58,
+    "linked_images": [],
+    "chunk_id": "chunk_0494",
+    "chunk_type": "section",
+    "text": "(Brand: Broad ocean)"
+  },
+  {
+    "section": "(Brand: Broad ocean)",
+    "subsection": "(Brand: Broad ocean)",
+    "page": 58,
+    "linked_images": [],
+    "chunk_id": "chunk_0495",
+    "chunk_type": "section",
+    "text": "(Brand: Broad ocean)\n\n388Ω±8%\n\n260Ω±8%"
+  },
+  {
+    "section": "(Brand: Weiling)",
+    "subsection": "(Brand: Weiling)",
+    "page": 58,
+    "linked_images": [],
+    "chunk_id": "chunk_0496",
+    "chunk_type": "section",
+    "text": "(Brand: Weiling)"
+  },
+  {
+    "section": "(Brand: Weiling)",
+    "subsection": "(Brand: Weiling)",
+    "page": 58,
+    "linked_images": [],
+    "chunk_id": "chunk_0497",
+    "chunk_type": "section",
+    "text": "(Brand: Weiling)"
+  },
+  {
+    "section": "White - Black",
+    "subsection": "White - Black",
+    "page": 58,
+    "linked_images": [],
+    "chunk_id": "chunk_0498",
+    "chunk_type": "section",
+    "text": "White - Black\n\n370Ω±8%\n\n350Ω±8%"
+  },
+  {
+    "section": "(Brand: Broad ocean)",
+    "subsection": "(Brand: Broad ocean)",
+    "page": 58,
+    "linked_images": [],
+    "chunk_id": "chunk_0499",
+    "chunk_type": "section",
+    "text": "(Brand: Broad ocean)"
+  },
+  {
+    "section": "(Brand: Broad ocean)",
+    "subsection": "(Brand: Broad ocean)",
+    "page": 58,
+    "linked_images": [],
+    "chunk_id": "chunk_0500",
+    "chunk_type": "section",
+    "text": "(Brand: Broad ocean)\n\n360Ω±8%\n\n385Ω±8%"
+  },
+  {
+    "section": "(Brand: Weiling)",
+    "subsection": "(Brand: Weiling)",
+    "page": 58,
+    "linked_images": [],
+    "chunk_id": "chunk_0501",
+    "chunk_type": "section",
+    "text": "(Brand: Weiling)"
+  },
+  {
+    "section": "(Brand: Weiling)",
+    "subsection": "(Brand: Weiling)",
+    "page": 58,
+    "linked_images": [],
+    "chunk_id": "chunk_0502",
+    "chunk_type": "section",
+    "text": "(Brand: Weiling)"
+  },
+  {
+    "section": "Position",
+    "subsection": "Position",
+    "page": 58,
+    "linked_images": [],
+    "chunk_id": "chunk_0503",
+    "chunk_type": "section",
+    "text": "Position"
+  },
+  {
+    "section": "Resistance Value at 20℃",
+    "subsection": "Resistance Value at 20℃",
+    "page": 58,
+    "linked_images": [],
+    "chunk_id": "chunk_0504",
+    "chunk_type": "section",
+    "text": "Resistance Value at 20℃"
+  },
+  {
+    "section": "ODU Model",
+    "subsection": "ODU Model",
+    "page": 58,
+    "linked_images": [],
+    "chunk_id": "chunk_0505",
+    "chunk_type": "section",
+    "text": "ODU Model\n\n38QHF060"
+  },
+  {
+    "section": "(Motor Model)",
+    "subsection": "(Motor Model)",
+    "page": 58,
+    "linked_images": [],
+    "chunk_id": "chunk_0506",
+    "chunk_type": "section",
+    "text": "(Motor Model)\n\n(YDK53-6F)"
+  },
+  {
+    "section": "Black - Red",
+    "subsection": "Black - Red",
+    "page": 58,
+    "linked_images": [],
+    "chunk_id": "chunk_0507",
+    "chunk_type": "section",
+    "text": "Black - Red\n\n90Ω±8%"
+  },
+  {
+    "section": "(Brand: Broad ocean)",
+    "subsection": "(Brand: Broad ocean)",
+    "page": 58,
+    "linked_images": [],
+    "chunk_id": "chunk_0508",
+    "chunk_type": "section",
+    "text": "(Brand: Broad ocean)\n\n100Ω±8%"
+  },
+  {
+    "section": "(Brand: Weiling)",
+    "subsection": "(Brand: Weiling)",
+    "page": 58,
+    "linked_images": [],
+    "chunk_id": "chunk_0509",
+    "chunk_type": "section",
+    "text": "(Brand: Weiling)"
+  },
+  {
+    "section": "White - Black",
+    "subsection": "White - Black",
+    "page": 58,
+    "linked_images": [],
+    "chunk_id": "chunk_0510",
+    "chunk_type": "section",
+    "text": "White - Black\n\n140Ω±8%"
+  },
+  {
+    "section": "(Brand: Broad ocean)",
+    "subsection": "(Brand: Broad ocean)",
+    "page": 58,
+    "linked_images": [],
+    "chunk_id": "chunk_0511",
+    "chunk_type": "section",
+    "text": "(Brand: Broad ocean)\n\n150Ω±8%"
+  },
+  {
+    "section": "(Brand: Weiling)",
+    "subsection": "(Brand: Weiling)",
+    "page": 58,
+    "linked_images": [],
+    "chunk_id": "chunk_0512",
+    "chunk_type": "section",
+    "text": "(Brand: Weiling)\n\n58\n\n42QHF060/42QHF065\n\n(RPG45C)\n\n170Ω±8%"
+  },
+  {
+    "section": "(Brand: Weiling)",
+    "subsection": "(Brand: Weiling)",
+    "page": 58,
+    "linked_images": [],
+    "chunk_id": "chunk_0513",
+    "chunk_type": "section",
+    "text": "(Brand: Weiling)\n\n140Ω±8%"
+  },
+  {
+    "section": "(Brand: Weiling)",
+    "subsection": "(Brand: Weiling)",
+    "page": 58,
+    "linked_images": [],
+    "chunk_id": "chunk_0514",
+    "chunk_type": "section",
+    "text": "(Brand: Weiling)\n\n38QHF065\n\n(YDK100-6T)\n\n65Ω±8%"
+  },
+  {
+    "section": "(Brand: Weiling)",
+    "subsection": "(Brand: Weiling)",
+    "page": 58,
+    "linked_images": [],
+    "chunk_id": "chunk_0515",
+    "chunk_type": "section",
+    "text": "(Brand: Weiling)\n\n55Ω±8%"
+  },
+  {
+    "section": "(Brand: Weiling)",
+    "subsection": "(Brand: Weiling)",
+    "page": 58,
+    "linked_images": [],
+    "chunk_id": "chunk_0516",
+    "chunk_type": "section",
+    "text": "(Brand: Weiling)"
+  }
+]
